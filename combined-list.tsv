@@ -1,0 +1,536 @@
+NUMBER	GLOSS	CONCEPTICON_ID	SEE_ALSO	DEFINITION	ES	FR	DE	PT	RU	ZH	Swadesh_1952_200	Swadesh_1955_100	Tadmor_2009_100	Blust_2008_210	Matisoff_1978_200	Mann_2004_500
+1	ABOVE	1741		In or to a higher place; higher than; on or over the upper surface.		Sur	Ueber // oben		Надъ	上面				above		
+2	ADORNED	2496		Something that is crested with adornment.												crested
+3	ALL	98		The totality of.	cada uno, todo // todos	chaque, tous // tous	alle	cada, tudo	весь // все // все (omnis)	全部 // 都	all (of a number)	all		all		all
+4	AND	1577		Used to connect two homogeneous words or phrases.	y	et		e	и	和 // 和（他和你都是学生）	and			and		and
+5	ANGRY	1826		Irritated, in a temper, feeling or displaying anger.						生气						angry
+6	ANIMAL	619	ANIMAL OR MEAT (-1, Matisoff-1978-200)	Any living organism characterized by voluntary movement, the possession of cells with noncellulose cell walls and specialized sense organs enabling rapid response to stimuli, and the ingestion of complex organic substances such as plants and other animals.	animal	animal // animal, bête		animal, bicho	животное	动物 // 動物	animal					animal
+7	ANSWER	1275		To communicate a message of any form in reaction to something that has been asked or expressed, to the being who expressed it; to react verbally.	contestar	répondre		responder	отвечать	答						answer
+8	ANT	587		Any of the black, red, brown, or yellow insects of the family Formicidae characterized by a large head and by living in organized colonies.	hormiga	Fourmis // fourmi	Ameiße	formiga	Муравей // муравей	蚂蚁 // 螞蟻			ant		ant	ant
+9	AREA UNDER HOUSE	2632		The area under a house.												area under house
+10	ARM OR HAND	2121	HAND (1, Swadesh-1952-200), HAND (1, Mann-2004-500), HAND (1, Swadesh-1955-100), HAND (1, Blust-2008-210), STDB (1, STDB-2016-250.tsv)	Extremities emerging from the upper part of the human body.		Bras, Main	Arm, Hand		Рука				arm/hand		hand/arm	
+11	ARMPIT	1886		The hollow under the upper part of the arm at the shoulder.	sobaco, axila	aisselle		axila, sovaco	подмышка	夾肢窩						armpit
+12	ARROW	977		Pointed projectile that is shot with a bow.	flecha	flèche		flecha	стрела	箭					arrow	arrow
+13	ASH	646		The incombustible matter remaining after a substance has been incinerated.	ceniza // cenizas	cendre // cendres	Asche	cinzas	зола // пепел	灰 // 灰(草木灰) // 灰烬 // 烟灰 [B = 灰]	ashes	ashes	ash	ashes	ashes	ashes
+14	ASHAMED	1894		Feeling shame or guilt.						惭愧					ashamed	ashamed
+15	AT	1461		With very little distance to or in a particular place or location.	en, lugar definido						at			at		at
+16	AUBERGINE	1146		An Asian plant, Solanum melongena, cultivated for its edible purple, green, or white ovoid fruit.						茄子						eggplant
+17	AWAKE	825		Not sleeping.						醒					awaken	awaken
+18	BACK	1291		The rear of body, especially the part between the neck and the end of the spine and opposite the chest and belly.	espalda	Dos // dos	Rükken	costas	Спина // спина	背 // 背（脊背）	back (person's)		back	back		back
+19	BAD	1292		Not good; unfavorable; negative.	malo	Mal // mauvais	Schlecht	mau	Дурно // Худо // плохой	坏 // 壞	bad (deleterious or unsuitable)			bad, evil		bad
+20	BALD	1125		Without hair on the head.	calvo	chauve		calvo	лысый							bald
+21	BAMBOO	1927		A group of woody perennial evergreen plants in the true grass family Poaceae, subfamily Bambusoideae, tribe Bambuseae.	bambú	bambou		bambu	бамбук	竹 // 竹子					bamboo	bamboo
+22	BAMBOO SHOOT	2494		The edible shoots (new bamboo culms that come out of the ground) of many bamboo species.						竹笋						bamboo shoot
+23	BARK	1204	BARK OR SKIN (-1, Matisoff-1978-200)	The exterior covering of the trunk and branches of a tree.	corteza	Ecorce // écorce	Rinde	casca	Кора // кора	树皮 // 樹皮 // 皮	bark	bark				bark // bark
+24	BARLEY	932		A strong cereal of the genus Hordeum, or its grains, often used as food or to make malted drinks.	cebada	Orge // orge	Gerßte	cevada	Ячмень // ячмень	大麦						
+25	BATHE	138		To clean oneself by immersion in water.	bañar(se)	se baigner		tomar banho	купаться							bathe
+26	BE ALIVE	1422		To be alive; to have a life.	vivir // vivir, vivo, vida // vivo	Vivre // vivre // vivre, vivant, vie	Leben	viver, vivo/a, vida	Живо // Жить // жить // жить, живой, жизнь	活 // 活的 // 活着	to live			to live, be alive	alive	alive // live
+27	BE BORN	1090		To start living.	nacer	né, naître		nascer	родиться	出生					be born	born
+28	BE HUNGRY	1533		A need of food.						饿						hungry
+29	BE MANY	428		existence of an indefinite large number of someone or something.											(be) many (v.)	
+30	BEAN OR PEA	2574		Pointing to food like peas or beans in a general sense.											peas, beans	peas, beans
+31	BEAR	1820		A large beast of prey of the family Ursidae, related to the dog and raccoon, having shaggy hair, a very small tail, and flat feet.	oso	Ours // ours	Baer	urso	Медвѣдь // медведь	熊					bear	bear
+32	BEARD	678		Facial hair of humans on the chin, cheeks and jaw.	barba	Barbe // barbe	Bart	barba	Брада // борода							beard
+33	BECAUSE	1157		conjunction initiating a causal phrase.	porque	parce que	weil	porque	потому что	因为 // 因為	because					because
+34	BEDROOM	2505		The area where people sleep.												sleeping area
+35	BEE	665		Any of the membranous-winged insects which compose the superfamily Apoidea in the order Hymenoptera characterized by a hairy body and by sucking and chewing mouthparts.	abeja	Abeille // abeille	Biene	abelha	Пчела // пчела	蜜蜂					bee	bee
+36	BELLY	1251		The lower part of the front of the torso (or a comparable part of an animal), confined by the upper side by the midriff and the lowerside by the pelvis. Contains the intestines.	Estomago // barriga // vientre, abdomen	Ventre // ventre	Bauch		Kost // Брюхо // живот	肚子 // 腹	belly	belly		belly	belly (exterior)	belly
+37	BELOW OR UNDER	1485		Lower in spatial position than.	debajo	Sous // dessous, sous	Unter // unter	debaixo	Подъ // под	下面				below		
+38	BEND	2004		Movement that causes the formation of a curve.	encorvar, doblar	plier, courber		dobrar, curvar	сгибать							bend
+39	BETELNUT	217		The seed of the areca palm (Areca catechu).												betel nut
+40	BIG	1202		Of a great size; the weakest sense of great size.	grande	Grand // grand // grand, gros	Großs // gross	grande	Велико // большой	大	big	big	big	big		big
+41	BIRD	937		Any of the bipedal, warm-blooded vertebrates that lay eggs having wings which, for most species, enables them to fly.	Ave // pájaro // pájaro, ave	Oißeau // oiseau	Vogel	pássaro, ave	Iedit // Птица // птица	小雞兒 // 鳥 // 鸟	bird	bird	bird	bird	bird	bird
+42	BITE	1403		Clamping the teeth hard on something.	morder	mordre	beissen	morder	кусать	咬	to bite	bite	to bite	to bite	bite	bite
+43	BITTER	887		Having an acrid taste.	amargo	amer, âpre		amargo	горький	苦			bitter		bitter	bitter
+44	BLACK	163		Dark and colourless; not reflecting visible light.	Negro // negro	Noir // noir	Schwartz // schwarz	preto, negro	Skazat // Черно // черный // чёрный	黑	black	black	black	black	black	black
+45	BLANKET	806		A large cloth used for warmth and for sleeping.	frazada, cobija	couverture		cobertor	одеяло							blanket
+46	BLIND	1653		Unable to see.	ciego	aveugle		cego	слепой							blind
+47	BLINK	1655		To make a quick wink of one or both eyelids, often repeatedly.	parpadear	cligner (de l'oeil)		pestanejar	щуриться							wink
+48	BLOOD	946		A fluid connective tissue consisting of the plasma and cells that circulate in the blood vessels.	sangre	Sang // sang	Blut	sangue	Кровь // кровь	血	blood	blood	blood	blood	blood	blood
+49	BLOW (OF WIND)	175		(Of the wind or a current of air) To move.	soplar	Venter // souffler	Wehen	soprar	Вѣть // дуть	刮 // 刮風 // 刮风 // 吹	to blow (of wind)		to blow	to blow	blow	blow
+50	BLUNT	379		Having a thick edge or point, as an instrument; not sharp.	embotado // romo, embotado	émoussé		embotado, rombudo	тупой	钝 // 钝(刀)	dull (knife)			dull, blunt		dull
+51	BOAT	1844		A craft used for transportation of goods, fishing, racing, recreational cruising, or military use on or in the water, propelled by oars or outboard motor or inboard motor or by wind.	bote	Eßquif // bateau	Boot // Kahn	bote, barco	Лодья // лодка	船					boat	boat
+52	BONE	1394		Any of the components of an endoskeleton, consisting mainly of calcium phosphate, collagen and cells.	Hueso // hueso	Os // os	Knochen	osso	Zhiolty // Кость // кость	骨 // 骨头 // 骨頭	bone	bone	bone	bone	bone	bone
+53	BOW	994		A weapon made of a curved piece of wood or other flexible material whose ends are connected by a string, used for shooting arrows.	arco	arc		arco	лук	弓					bow	bow
+54	BOY OR SON	2391	STDB (1, STDB-2016-250.tsv)	Either a son or a boy.											child/son	
+55	BRAIN	1583		The organ of the central nervous system of an animal located in the skull that controls the actions and thoughts of the animal.	cerebro, sesos	cerveau		cérebro, miolos	мозг(и)	脑子 [B= 脑髓]					brain	brain
+56	BRANCH	1531		A woody part of a tree arising from the trunk and usually dividing.	rama	Branche // branche, rameau	Ast	ramo, galho	Сукъ // ветка	树枝				branch	branch	branch
+57	BREAST OR MILK	2129	BREAST (1, Blust-2008-210), BREAST (1, Swadesh-1955-100), BREAST (1, Tadmor-2009-100), STDB (1, STDB-2016-250.tsv), BREAST (1, Mann-2004-500)	Either the organ of females which gives nourishing substance for newborns, or the substance itself.											vagina or breast/milk	breast/milk
+58	BREATH OR LIFE	2269	BREATH (1, Mann-2004-500)	The act of inhalation and exhalation of air as one part of physiological respiration required to sustain life, or the fact that life is sustained itself.											breath/life	
+59	BREATHE	1407		To repeatedly draw air into, and expel it from, the lungs, in order to extract oxygen from it and excrete waste products.	respirar, aliento	respirer, haleine	atmen	respirar, respiração	дышать // дышать, дыхание	吸 // 呼吸	to breathe			to breathe		
+60	BRIGHT	679		Visually dazzling.	brillante, resplandor	brillant, gai, vif		claro, brilhante	яркий	亮 // 明亮 [B = liang]						bright
+61	BUFFALO	934		A wild heavy bison of the species Bison bison, having a broad massive horned head.						水牛						buffalo
+62	BURN	2102	BURNING (1, Swadesh-1952-200), STDB (1, STDB-2016-250.tsv), BURNING (1, Tadmor-2009-100), BURN (SOMETHING) (1, Swadesh-1955-100)	To put fire on something or to be on fire.					жечь	烧 // 燒				to burn	burn	burn
+63	BURY	1719		to put in the ground and cover with earth.	sepultar	enterrer		enterrar	хоронить							bury
+64	BUTTERFLY	1791		A lepidopteran that is active at day	mariposa	papillon		borboleta	бабочка	蝴蝶						butterfly
+65	BUTTOCKS	834		The fleshy part of the human body that one sits on.	nalgas, trasero	fesses, derrière		nádegas	ягодицы	屁股						buttocks
+66	BUY	1869		To obtain in exchange for money or goods.	comprar	acheter		comprar	покупать	买 // 買布				to buy	buy	buy
+67	CALF	1989		Young cattle.	becerro, ternero	Veau // veau	Kalb	bezerro	Теля // теленок							calf
+68	CANDLE	1273		A light source consisting of a wick embedded in a solid, flammable substance such as wax, tallow, or paraffin.	vela	bougie, cierge, chandelle		vela	свеча	蜡烛						candle
+69	CARRY	700		To lift and bring to somewhere else; to transport by lifting.	llevar, cargar	porter		levar	нести				to carry			
+70	CAT	1208		A common four-legged animal (Felis silvestris) that is often kept as a household pet.	gato	Chat // chat	Katze	gato	Котъ // кот	猫						cat
+71	CAVE	1155		1) An underground hollow with access from the ground surface or from the sea, often found in limestone areas and on rocky coastlines.2) A natural cavity, chamber or recess which leads beneath the surface of the earth, generally in a horizontal or obliquely inclined direction. It may be in the form of a passage or a gallery, its shape depending in part on the joint pattern or structure of the rock and partly on the type of process involved in its excavation. Thus, caves worn by subterranean rivers may be different in character from, and of considerably greater extent than, a sea-cave eroded by marine waves.3) A natural underground open space, generally with a connection to the surface and large enough for a person to enter. The most common type of cave is formed in a limestone by dissolution. (Source: CED /  WHIT /  BJGEO)	cueva	Antre // grotte	Hoehle	caverna, gruta	Пещера // пещера	山洞						cave
+72	CHEEK	1730		The soft skin on each side of the face, between the eyes and the chin; the outer surface of the sides of the oral cavity.	mejilla	Joues // joue	Wangen	bochecha	Щеки // Щоки // щека							cheek
+73	CHEW	321		To crush with the teeth by repeated closing and opening of the jaws; done to food to soften it and break it down by the action of saliva before it is swallowed.	masticar	mastiquer, macher		mastigar, mascar	жевать	嚼				to chew		
+74	CHICKEN	1318		A type of domesticated bird from the order of Galliformes which is often raised as a type of poultry (Gallus gallus domesticus).	pollo	Poule // poulet	Huhn	frango	Курица // цыпленок	母鸡 // 鸡						chicken
+75	CHILD (YOUNG HUMAN)	1304	CHILD (-1, Mann-2004-500), CHILD (-1, Blust-2008-210)	A person below the age of puberty.	niño	enfant		criança, menino	ребенок	孩 // 孩子 // 小孩兒 // 小孩子	child (young person rather than as relationship term)					
+76	CHILI PEPPER	919		Any fruit of a plant of the botanical genus Capsicum, noted for their spicy and burning flavour due to presence of capsaicin.	ají	piment		malagueta	острый перец	辣子						red pepper
+77	CHIN	1510		The bottom of the face, below the mouth.	mentón // mentón, barbilla	menton		queixo	подбородок							chin
+78	CHOOSE	1750		To make a choice from a number of alternatives.	escoger, elegir	choisir		escolher	выбирать					to choose		choose
+79	CLAW OR NAIL	2128	CLAW (1, Mann-2004-500)	The hard, keratin part growing at the feet of animals or the hands and legs of humans.					ноготь			claw (nail)			nail/claw	
+80	CLOTHES	1895		All coverings designed to be worn on a person's body.	ropa	Vetement // habit, vêtement	Kleidung	roupa	Платье // одежда	衣服						clothing
+81	CLOUD	1489		Suspensions of minute water droplets or ice crystals produced by the condensation of water vapour.	Nube // nube // nubes quietas	Nue // nuage	Wolke // Wolken	nuvem	Zmeja // Облако // облака // облако // облако, туча	云 // 雲	cloud	cloud		cloud	cloud	cloud
+82	COCKROACH	1575		The most primitive of the living winged insects.	cucaracha	cafard, cancrelat		barata	таракан	蟑螂						cockroach
+83	COCONUT	970		The large hard-shelled oval nut with a fibrous husk of the cocos palm.	coco	noix de coco		coco	кокос							coconut
+84	COCONUT SHELL LADLE	2649		A large spoon made from coconut shell.												ladle
+85	COLD	1287	COLD (OF WEATHER) (1, Swadesh-1952-200), COLD (OF WEATHER) (1, Mann-2004-500)	Having a low temperature.	fría // frío	Froid // froid	Kaelte // kalt	frio	Стужа // холодный	冷		cold		cold	cold	cold
+86	COMB	1475		A toothed implement for grooming the hair.	peine	peigne		pente	грбень	梳子						comb
+87	COME	1446		To move toward or to reach either the speaker, the person spoken to, or the subject of the speaker's narrative.	venir	venir	kommen	vir	приходить	來 // 来	to come	come	to come	to come		come
+88	COME BACK	581		To go there where one was before.	volver, regresar	revenir		voltar, regressar	возвращаться	回						return
+89	COOK (SOMETHING)	1100		To prepare a meal or a single dish.	cocinar	Cuire // cuire	Kochen	cozinhar	Варить // варить	厨师				to cook	cook/boil	cook/boil
+90	COOKED RICE	1191		Boiled rice.						饭					rice (cooked)	rice (cooked)
+91	CORRECT (RIGHT)	1725		That are in accordance with fact.	correcto	juste, correct		correto	правильный	对 // 對 // 正好	right (correct)			correct, true		correct
+92	COUGH	879		To force air from the lungs out the mouth, sometimes involuntarily, accompanied by a rough sound.	toser	tousser		tossir	кашлять	咳嗽					cough	cough
+93	COUNT	1420		To enumerate the digits of one's numeral system.	contar	compter		contar	считать	数 // 數 // 數[動]	to count			to count		count
+94	COW	1007		Female bovine animal (Bos taurus) of the subfamily Bovinae of the family Bovidae.	vaca	Vache // vache	Kuh	vaca	Корова // корова	牛						cow
+95	CRAWL	96		to move in a prone position with the body resting on or close to the ground.	gatear	ramper		rastejar, arrastar-se	ползти							crawl
+96	CROCODILE	1857		Any large tropical reptile of the family Crocodylidae: order Crocodylia. They have a broad head, tapering snout, massive jaws, and a thick outer covering of bony plates. (Source: CED)	cocodrilo, caimán	crocodile		jacaré	крокодил							crocodile
+97	CRY	1839		To shed tears due to the impact of an emotion.	llorar	Pleurer // pleurer	Weinen	chorar	Плакать // плакать, всхлипывать	哭			to cry/weep	to cry	weep	weep
+98	CUT	1432		To perform an incision (for example, with a knife).	cortar	Couper // couper	Schneiden	cortar	Рѣзать // резать	切 // 割 // 割, 切, 剪 // 砍	to cut			to cut, hack	cut	cut
+99	DANCE	1879		To move with rhythmic steps or movements, especially in time to music.	bailar	Dancer // danser	Tantzen	dançar	Плясать // танцевать	舞蹈 // 跳舞						dance
+100	DARK	706		Having an absolute or (more often) relative lack of light.	oscuro	Sombre // foncé	Finßter	escuro	Темно // темный	暗						dark
+101	DAUGHTER	1357	CHILD (-2, Mann-2004-500), CHILD (-2, Blust-2008-210), CHILD (DESCENDANT) (-1, Tadmor-2009-100)	An animal's female offspring (including that of a human).	hija	Fille // fille	Tochter	filha	Дочь // дочь	女儿 // 女兒						
+102	DAY (NOT NIGHT)	1225	DAY OR SUN (-1, Matisoff-1978-200)	The period between sunrise and sunset where one enjoys daylight.	día	Jour // jour	Tag	dia	День // день	天 // 日子 // 白天	day (opposite of night rather than time measure)			day		day
+103	DEAF	996		Not having the faculty of hearing, or only having a restricted capability to hear.	sordo	sourd		surdo	глухой							deaf
+104	DEEP	1593		Having a bottom or base that is far away from the top.	profundo, hondo	profond		fundo	глубокий	深						deep
+105	DEER	1936		The common name for 41 species of even-toed ungulates that compose the family Cervidae in the order Artiodactyla; males have antlers.	venado // venado, ciervo/a	daim, cerf, chevreuil		veado	олень, лань							deer
+106	DEW	1977		Atmospheric moisture that condenses after a warm day and appears during the night on cool surfaces as small drops.	rocío	Roßée // rosée	Thau	orvalho	Роса // роса	露水						
+107	DIE	1494		To cease to live.	morir // morir, muerto	Mourir // mourir // mourir, mort	Sterben // sterben	morrer, morto	Умереть // умереть // умереть, скончаться, мертвый // умирать	死 // 死了	to die	die			die	die
+108	DIE OR BE DEAD	2101		To cease or have ceased to live.										to die, be dead		
+109	DIFFICULT	584		Not easy, which needs hard work, patience and effort.	difícil	difficile		difícil	трудный	难						difficult
+110	DIG	1418		To move earth, rocks, etc. out of the way, usually to create a hole.	cavar // excavar, cavar	creuser, piocher		cavar, escavar	капать // копать	挖	to dig			to dig	dig	dig
+111	DIRTY	1230		Covered with or containing unpleasant substances such as dirt or grime.	sucio	sale, crasseux		sujo	грязный	脏 // 骯髒 // 髒	dirty			dirty		dirty
+112	DISAPPEAR	485		To cease to appear, to not be visible anymore.	desaparecer	disparaître		desaparecer	исчезать							disappear
+113	DISGUSTING	2507		Creating disgust in somebody.												disgusting
+114	DO NOT DO IT	2660		Ask or command somebody to not carry out an action.												don't do it
+115	DO OR MAKE	2575		To do something or to make something.	hacer	faire		fazer	делать				to do/make			do/make
+116	DOG	2009		A common four-legged animal, especially kept by people as a pet or to hunt or guard things.	Perro // perro	Chien // chien	Hund	cão, cachorro	Pit // Собака,Пѣсь // собака // собака, пес	犬 // 狗	dog	dog	dog	dog	dog	dog
+117	DOOR	1567		An opening, or passage in a fence or wall; the entrance through which you enter or leave a room or building.	puerta	Porter // porte	Thür	porta, portão	Дверъ // дверь, ворота	门						door
+118	DOVE	1853		One of several birds of the family Columbidae.	paloma	Pigeon // colombe	Taube	pomba	Голубь // голубь, голубка	斑鸠 // 鸽子					dove	dove
+119	DREAM (SOMETHING)	1920		To experience while sleeping.	soñar	rêver		sonhar	видеть сон, мечтать					to dream	dream	dream
+120	DRINK	1401		To consume a liquid through the mouth.	Beber // beber // tomar, beber	Boire // boire	Trinken // trinken	beber, tomar	Uxa // Пить // пить	喝	to drink	drink	to drink	to drink	drink	drink
+121	DRUM	908		A percussion instrument consisting of at least one membrane that is stretched over a shell and struck directly with the player's hands or with a drumstick.	bombo, tambor // tambor	tambour		tambor	барабан	鼓						drum
+122	DRUNK	1463		Being in a temporary state in which one's physical and mental faculties are impaired due to excessive consumption of alcohol.	ebrio	ivre		embriagado	пьяный	醉						drunk
+123	DRY	1398		(Almost) free from liquid or moisture.	seco	sec	trocken	seco	сухой	乾 // 干 // 幹	dry (substance)	dry		dry		dry
+124	DUCK	1360		An aquatic bird of the family Anatidae, having a flat bill and webbed feet.	pato, ánade	Canard // canard	Ente	pato	Утка // утка	鸭子						duck
+125	DUST	2		Any kind of solid material divided in particles of very small size.	polvo	Pußière // poussière	Staub	pó	Пыль // пыль	塵土 // 尘土 // 灰塵 // 灰尘	dust			dust		dust
+126	DYE	157		To modify the color of something by applying dye.	teñir	teindre		corante, tingir	краска							dye
+127	EAR	1247	EAR OR HEAR (-1, Matisoff-1978-200)	The organ of hearing, consisting of the pinna, auditory canal, eardrum, malleus, incus, stapes and cochlea.	Oreja // oreja	Oreille // oreille	Ohr	orelha	Sontse // Ухо // ухо	耳 // 耳朵	ear	ear	ear	ear		ear
+128	EARLY	672		Before the expected time.	temprano	tôt, de bonne heure		cedo	рано	早						
+129	EARTH (SOIL)	1228		The soft and loose material forming a great part of the Earth surface.	suelo // tierra	Terre // terre // terre, sol // terre/sol	Erde	solo, chão	Земля // земль // земля // земля, почва	土 // 土地 // 地	earth (soil)	earth	soil	earth/soil	earth	earth/soil
+130	EARTHWORM	2350		A tube-shaped, segmented worm found in the phylum Annelida. 						蚯蚓						
+131	EAST	1877		One of the four principal compass points, specifically 90°, conventionally directed to the right on maps. The direction of the rising sun.	este (punto cardinal), levante	Orient // est, orient	Osten // Oßt, Aufgang	leste, este	Востокъ // восток							east
+132	EASY	686		Requiring little skill or effort; posing no difficulty.	fácil	facile		fácil	легкий	容易						easy
+133	EAT	1336		To consume something solid or semi-solid (usually food) by putting it into the mouth and eventually swallowing it.	Comer // comer	Il mange // Manger // Tu mange // manger	Eßßen // Ißßet // Ißßeßt // essen	comer	Glaz // Ястй // есть // есть, кушать // Ѣмъ // Ѣсть // ѣстй	吃 // 食	to eat	eat	to eat	to eat	eat	eat
+134	EGG	744		Egg (either fertilized or not) from domesticated birds, most commonly hens, seen as food.	Huevo // huevo	Oeuf // oeuf // œuf	Ei // Ey	ovo	Bliedno // Яицо // яйцо // ѣицо	卵 // 蛋 // 雞蛋 // 鸡蛋 // （鸡）蛋	egg	egg	egg	egg	egg	egg
+135	EIGHT	1705		The cardinal number occurring after seven and before nine, represented in Roman numerals as VIII, in Arabic numerals as 8.	ocho	Huit // huit	Acht // acht	oito	Восемь // восемь	八				Eight	eight	eight
+136	ELBOW	981		The joint between arm and forearm.	codo	Coude // coude	Ellbogen	cotovelo	Локоть // локоть							elbow
+137	ELEPHANT	1290		A mammal of the order Proboscidea, having a trunk, and two large ivory tusks jutting from the upper jaw. Elephants are the largest land animals now existing.	elefante	éléphant		elefante	слон							elephant
+138	ELEPHANT TUSK	2495		The tusks (incisors) of an elephant.												tusk
+139	EMERGE, APPEAR	1076		To become known or apparent.						出					emerge	emerge
+140	ENTER	749		To go into.	entrar	entrer		entrar	входить	进（去）[B = jinlai] // 进（进来）						enter
+141	EXCHANGE	2509		To hand out one thing while receiving another thing or to replace one thing with another.												exchange
+142	EXTINGUISH	127		To make something stop burning.	apagar	éteindre		extinguir	гасить, тушить	灭					extinguish	extinguish
+143	EYE	1248		The organ that is sensitive to light, which it converts to electrical signals passed to the brain, by which means animals see.	Ojo // ojo	Oeuil // oeil // œil	Auge	olho	Luna // Око // глаз	目 // 眼 // 眼晴 // 眼睛	eye	eye	eye	eye	eye	eye
+144	EYEBROW	1173		The hair that grows over the bone ridge above the eye socket.	ceja	Sourcils // sourcil	Augbraunen	sobrancelha	Брови // бровь							eyebrow
+145	EYELID	17		A skin flap that can be closed over an eye.	párpado	paupière		pálpebra	веко							eyelid
+146	FACE	1560		The front part of the head, featuring the eyes, nose, and mouth and the surrounding area.	cara	Vißage (Face) // visage	Antlitz	rosto	Лицо // лицо	脸						face
+147	FAECES (EXCREMENT)	675		Substance that human and animal bodies release from time to time as a little pile of waste remaining from digestion, after it has been collected in the colon.						屎						excrement
+148	FALL	1280		To descend in free fall due to the effect of gravity.	caer	tomber	fallen	cair	падать	掉 // 掉（掉下来） // 落 // 落下 // 跌倒	to fall (drop rather than topple)		to fall	to fall	fall (from a height)	fall
+149	FAR	1406		Having a large intervening distance with regard to something.	lejos	Loin // loin	Fern	longe	Далеко // далекий // далеко // далеко	元 // 远 // 遠	far		far	far	far	far
+150	FAST	1631		Occurring or happening within a short time.	rápido	Vite // vite, rapide	Geßchwind	rápido, ligeiro	Скоро // быстрый	快 // 快快						fast
+151	FASTEN	1094	TIE (1, Tadmor-2009-100), TIE (1, Mann-2004-500), TIE (1, Matisoff-1978-200), TIE (1, Swadesh-1952-200)	Tighten and close, for example a belt.										to tie up, fasten		
+152	FAT (OBESE)	1279		Carrying a larger-than-normal amount of fat or weight.			dick			肥 // 肥(猪) // 胖					fat	fat (adj.)
+153	FAT (ORGANIC SUBSTANCE)	323		Esters of three fatty acid chains and the alcohol glycerol which form a semi-solid substance in room temperature and occur in animals and plants.	grasa	graisse // graisse, le gras	Fett	gordura	жир // жир, сало	脂肪	fat (organic substance)	fat (grease)		fat/grease	fat/grease	fat (n.) // grease
+154	FATHER	1217		A male parent.	padre	Pére // père	Vater	pai	Отецъ // отец	父亲 // 父親 // 爸爸	father			father		father
+155	FEAR OR FRIGHTEN	2109	FEAR (BE AFRAID) (1, Mann-2004-500), FEAR (BE AFRAID) (1, Blust-2008-210), FEAR (BE AFRAID) (1, Swadesh-1952-200)	To be scared or to scare someone.											fear/frighten	
+156	FEATHER	1201		A branching, hair-like structure that grows on the skin of birds and protects them against coldness and water and allows their wings to create lift.	Pluma // pluma	Plume // plume	Feder	pena	Tchiorne // Перо // перо	毛 // 羽 // 羽毛	feather (larger feathers rather than down)	feather		feather		feather
+157	FEMALE PERSON	2105	WOMAN (1, Mann-2004-500), WOMAN (1, Swadesh-1955-100), STDB (1, STDB-2016-250.tsv), WOMAN (1, Swadesh-1952-200)	A human belonging to the female sex.										woman/female		
+158	FEW	1242		More than one, but not as many as usual or as expected.	poco	peu		pouco, poucos	мало	少	few					few
+159	FIELD	212		A limited area of land with grass or crops growing on it, which is usually surrounded by fences or closely planted bushes when it is part of a farm.	campo (de cultivo), chacra // roza, sementera	Champ // Plaine // champ	Acker // Feld	campo	Пашня // Поле // поле (для обработки)	旱地 // 田					field	field
+160	FIFTY	1717		The cardinal number occurring after forty-nine and before fifty-one, represented in Roman numerals as L and in Arabic numerals as 50.										Fifty		
+161	FIGHT	1423		To be involved in a physical confrontation.	pelear	Batterie // se battre	Schlaegerey	lutar	Драка // бороться // драться, сражаться	打 // 打架	to fight					fight
+162	FINGER OR TOE	2120	FINGER (1, Mann-2004-500)	Limb of the human body found in the hands and foots of humans and primates.											finger/toe	
+163	FIRE	221		The state of combustion in which inflammable material burns, producing heat, flames and often smoke.	Fuego // candela, fuego // fuego	Feu // feu	Feuer	fogo	Ryba // Огонь // огонь	火	fire	fire	fire	fire	fire	fire
+164	FIREWOOD	10		Wood intended to be burned.	leña	bois de chauffage, bûches // bois à brûler		lenha	дрова	木柴 // 柴						firewood
+165	FISH	227		A cold-blooded vertebrate animal that lives in water that moves with the help of fins and breathes using gills (Pisces).	Pez // pescado // pez // pez, pescado	Poißßon // poisson	Fisch // Fißch	peixe	Spat // Рыба // перо // рыба	一條魚 // 魚 // 鱼	fish	fish	fish	fish	fish	fish
+166	FIVE	493		The fifth natural number (5).	cinco	Cinq // cinq	Fünf // fünf	cinco	Пять // пять	五	five			Five	five	five
+167	FLEA	232		Any of the wingless insects composing the order Siphonaptera; most are ectoparasites of mammals and birds. (Source: MGH)	pulga	puce		pulga	блоха	跳蚤						
+168	FLESH OR MEAT	2615	STDB (1, STDB-2016-250.tsv), ANIMAL OR MEAT (-1, Matisoff-1978-200)	Either referring to the soft substance of the body of living things (flesh), or to the soft substance in animals as an important source of food for humans.	carne					肉	meat (flesh)	meat (flesh)	flesh/meat	meat/flesh		flesh/meat
+169	FLOAT	1574		Of an object or substance, to be supported by a liquid of greater density than the object so as that part of the object or substance remains above the surface. [WK:float]	flotar	flotter	fliessen	flutuar	плыть по поверхности воды	浮 // 漂流 [B = 浮] // 漂浮	to float					float
+170	FLOW	2003		To move as a fluid from one position to another (e.g. of people).	fluir // fluir, correr	couler		fluir	течь, литься потоком	流 // 流 [B = liu (shui)] // 留	to flow			to flow		flow
+171	FLOWER	239		The reproductive structure of angiosperm plants, consisting of stamens and carpels surrounded by petals and sepals all borne on the receptacle.	flor	Fleur // fleur	Blume	flor	Цвѣтъ // цветок	一朵花兒 // 花 // 花儿	flower			flower	flower	flower
+172	FLY (INSECT)	1504		A common insect; any species of insect of the order Diptera.	mosca	Mouche // mouche	Fliege	mosca	Муха // муха	苍蝇						fly (n.)
+173	FLY (MOVE THROUGH AIR)	1441		To move autonomously through the air, without any part of the object or object's enclosure touching anything attached to the ground.	Volar // volar	voler	fliegen	voar	Jazyk // летать // лететь // лететь, летать	飛 // 飞	to fly	fly	fly	to fly	fly	fly
+174	FOG	249		Water droplets or, rarely, ice crystals suspended in the air in sufficient concentration to reduce visibility appreciably.	neblina // neblina, niebla	Brouillar // brume, brouillard	Nebel	nevoeiro, névoa	Туманъ // туман	雾 // 霧	fog			fog		fog
+175	FOOT	1301	FOOT OR LEG (-1, Tadmor-2009-100), FOOT OR LEG (-1, Blust-2008-210)	The part of a human’s body below the ankle that is used in order to stand and walk.	Pie // pie	Pied // pied	Fus // Fuss // Fuß	pé	Piero // Нога // нога // ступня	脚 // 腳	foot	foot			foot	foot
+176	FOREHEAD	123		The part of the face between the hairline and the eyebrows.	frente // frente (la)	Front // front	Stirn	testa, fronte	Лобъ // лоб	额头						forehead
+177	FOREST	420		A vegetation community dominated by trees and other woody shrubs, growing close enough together that the tree tops touch or overlap, creating various degrees of shade on the forest floor.	selva	Bois, Forêt // bois, forêt	Holtz, Wald	bosque, floresta	Лѣсъ // лес	森林	woods			woods/forest		woods
+178	FORGET	1523		To lose memory of something.	olvidar	oublier	vergessen	esquecer-se	забывать	忘記 // 忘记					forget	forget
+179	FOUR	1500		The cardinal number occurring after three and before five, represented in Roman numerals as IV, in Arabic numerals as 4.	cuatro	Quatre // quatre	Vier // vier	quatro	Четыре // четыре	四	four			Four	four	four
+180	FOWL	265		A bird that is kept for its meat and eggs.	ave (de corral)	volaille		ave	домашняя птица						fowl	fowl
+181	FOX	1312		A carnivorous relatively small canine of the species Vulpes Vulpes.	zorro	Renard // renard	Fuchs	raposa	Лисица // лиса, лисица							
+182	FREEZE	1431		To reach a chemically solid state, by the process of cooling.	helarse				замерзать	結冰 // 结冰	to freeze					freeze
+183	FRIEND	1325		A person other than a family member, spouse or lover whose company one enjoys and towards whom one feels affection.	amigo, compañero	Ami // ami, compagnon	Freund	amigo, companheiro	Другъ // друг	朋友						friend
+184	FROG	503		Any insectivorous anuran amphibian of the family Ranidae, such as Rana temporaria of Europe, having a short squat tailless body with a moist smooth skin and very long hind legs specialized for hopping.	rana	Grénouille // grenouille	Froßch	rã	Лягушка // лягушка	靑蛙 // 青蛙					frog	frog
+185	FRONT (PART)	2194		The forward part or surface, as of a building.						前面						
+186	FROST	2034		A deposit of interlocking ice crystals formed by direct sublimation on objects. (Source: MGH)		Froid // Gelée	Froßt // Kaelte		Морозъ // Хладъ	霜						
+187	FRUIT	1507	BERRY (1, Swadesh-1952-200)	A botanical fruit that can be eaten raw used as food	fruta	Fruit // fruit	Frucht	fruta	Плодъ // фрукт	果 // 水果 // 水果 [B = 果子]				fruit	fruit	fruit
+188	FULL	1429		Containing the most or maximum amount possible in the given available space.	lleno	plein	voll	cheio	pолный // полны // полный	满 // 滿		full			full	full // full
+189	GARLIC	2368		 A species in the onion genus, Allium. 												garlic
+190	GHOST	1175		The visible disembodied soul of a dead person.	fantasma	fantôme, esprit, revenant	Geist	fantasma	призрак	鬼						ghost
+191	GIBBON	2511		 Apes in the family Hylobatidae.												gibbon
+192	GINGER	2500		A herbaceous perennial which grows annual stems about a meter tall bearing narrow green leaves and yellow flowers.												ginger
+193	GIVE	1447		To transfer the possession or holding (of an object) to another person.	dar	Donne // Donner // donner	Geben // Gieb // geben	dar	Дай // Дать // давать // дать	給 // 给	to give	give	to give		give	give
+194	GO	695	WALK (1, Swadesh-1955-100), WALK (1, Blust-2008-210), WALK (1, Swadesh-1952-200), WALK (1, Mann-2004-500), STDB (1, STDB-2016-250.tsv)	To move from a place to another that is further away.	ir // vaya, ve	Aller // Va // aller	Gehe // Gehen	ir	Иди // Итти // идти	去 // 走			to go			
+195	GO DOWN (DESCEND)	2014		To go from a higher to a lower place.	bajar	descendre		descer, baixar	спускаться, идти вниз	下 // 下（去）[B = xia (shan)] // 下（山）					descend	descend
+196	GO UP (ASCEND)	705	CLIMB (1, Blust-2008-210)	To ascend; to go up.	subir	monter		subir	подниматься, идти вверх	上（山）					climb, ascend	climb/ascend
+197	GOAT	1502		A common four-legged animal (Capra) that is related to sheep and bred by humans for its coat and milk.	cabra	Chêvre // chèvre	Ziege	cabra	Коза // коза	羊						
+198	GOLD	1369		A heavy yellow elemental metal of great value, with atomic number 79 and symbol Au.	oro	Or // or	Gold	ouro	Золото // золото							gold
+199	GONG	2502		An African, East and South East Asian musical percussion instrument that takes the form of a flat, circular metal disc which is hit with a mallet.												gong
+200	GOOD	1035		Having desired or positive qualities.	bueno	Bien, Bon // bon	Gut // gut	bom	Хорошо // хороший	好	good	good	good	good		good
+201	GRANDCHILD	1617		A child of someone’s child.											grandchild (nephew)	grandchild (nephew)
+202	GRASS	606		A very large and widespread family of Monocotyledoneae, with more than 10.000 species, most of which are herbaceous, but a few are woody. The stems are jointed, the long, narrow leaves originating at the nodes. The flowers are inconspicuous, with a much reduced perianth, and are wind-pollinated or cleistogamous.	hierba // hierba, pasto	Verdure // herbe	Gras	erva, grama, relva	Зелень // трава	一叢草 // 草	grass			grass	grass	grass
+203	GREEN	1425		Having green as its colour; having the hue of that portion of the visible spectrum lying between yellow and blue, evoked in the human observer by radiant energy with wavelengths of approximately 490 to 570 nanometers.	Verde // verde // verde (color)	Verd // vert	Grün // grün	verde	Guliat // Зелено // зеленый // зелёный	綠 // 绿	green	green		green		green
+204	GRIND	1033		To break something into small pieces by pressing it flat, or grinding it to powder.	aplastar, moler	écraser, broyer		esmagar, moer	давить, дробить	磨 // 磨（面）			to crush/grind		grind	grind
+205	GROW	479		(For a living being) To become bigger.	crecer	grandir, croître, pousser		crescer	расти					to grow		
+206	GUMS	139		The mucosal tissue that partly lies over the teeth in the mouth.	encías	gencives		gengiva	десны							gums
+207	GUTS	1334	INTESTINES (1, Blust-2008-210), INTESTINES (1, Mann-2004-500)	The internal organs of an animal.						肠 // 肠子 // 腸子	guts				guts	
+208	HAIL	609		Precipitation in the form of balls or irregular lumps of ice.		Grêle	Hagel		Градъ	冰雹						
+209	HAIR (BODY)	189	HAIR (-1, Blust-2008-210), HAIR (-1, Swadesh-1952-200), HAIR (-1, Tadmor-2009-100), HAIR (-1, Mann-2004-500), STDB (-1, STDB-2016-250.tsv), HAIR (-1, Swadesh-1955-100)	The terminal hair that develops on the human body during and after puberty.	el pelo del cuerpo // vello (del cuerpo)	poil		cabelo, pêlo	волос (на теле)	（人身体上的）毛					hair (body)	
+210	HAIR (HEAD)	2648	HAIR (-1, Blust-2008-210), HAIR (-1, Swadesh-1952-200), HAIR (-1, Tadmor-2009-100), HAIR (-1, Mann-2004-500), STDB (-1, STDB-2016-250.tsv), HAIR (-1, Swadesh-1955-100)	The hair on the head of humans (rather than the hair in general or the hair on the body).	cabello // cabello, pelo	Cheveux // cheveu	(Kopf-)Haare // Haar	cabelo	Волосъ // волос // волос (на голове) // волосы	头发 // 頭髮 // 髮					hair (head)	
+211	HALF	816		One of the two equal parts of a whole.	mitad	moitié		metade	половина	半						half // half a quantity
+212	HARD	1884		Resistant to pressure.	duro	Solide, Dur // dur	Feßt, Hart	duro	Твердъ // жесткий	硬			hard			hard
+213	HATE	1607		To dislike intensely; to feel strong hostility towards.	odiar	haïr	hassen	odiar	ненавидеть	恨 // 讨厌（人）						hate
+214	HE OR SHE OR IT	262	HE (2, Swadesh-1952-200), HE (2, Mann-2004-500), HE OR SHE (1, Blust-2008-210)	Third person singular pronoun, regardless of gender/sex.	él/ella/ello	il/elle/il		ele/ela/ele (ou ela)	он/она/оно	他			3sg pronoun			
+215	HEAD	1256		The part of the body of an animal or human which contains the brain, mouth and main sense organs.	cabeza	Tête // tête	Kopf	cabeça	Глава // голова	头 // 頭	head	head		head	head	head
+216	HEAR	1408	EAR OR HEAR (-1, Matisoff-1978-200)	To perceive sound with the ear, without necessarily paying attention to it.	Oir // oír	entendre	hören	ouvir	Nos // слышать	听 // 听见 // 聽 // 聽到 // 聽見	to hear	hear	to hear	to hear		hear
+217	HEART	1223		A muscular organ that pumps blood through the body.	corazón	Coeur // coeur // cœur	Hertz // Herz	coração	Сердце // сердце	心 // 心脏 // 心脏 [B = 心] // 心臟	heart	heart			heart	heart
+218	HEAVY	1210		Of a physical object, having great weight.	pesado	Peßant // lourd	Schwer // schwer	pesado	Тяжелъ // тяжелый // тяжелый // тяжёлый	重	heavy		heavy	heavy	heavy	heavy
+219	HEEL	980		The part of the foot on the backside where it becomes the leg.	talón	talon		calcanhar	пятка							heel
+220	HERE	136		at this place	aquí	Ici	Hier		Здѣсь	这里 // 這兒 // 這裏 // 這裡	here					here
+221	HIDE	2486		To put oneself in a place where one cannot be found, or an object so that the object is hidden.		Cacher	Verbergen		Скрыть	藏 // 躱 // 躲藏 [B = duo]					hide	hide
+222	HIDE (CONCEAL)	602		To put something in a place where it will be harder to discover or out of sight.	esconder // esconder (algo)	cacher, dissimuler		esconder	прятать, скрывать				to hide	to hide		
+223	HIGH	1265		Having relatively great height.	alto	haut	hoch	alto, elevado	высоко	高						
+224	HIT	1433		To give one blow or more with a swift movement.	golpear				ударить	打 // 拍（桌子）	to hit		to hit/beat	to hit		hit
+225	HOLD	1448		To grasp or grip (particularly with the hand) so that the object does not end up at the surface below.	sostener // tener (en mano), apoyar	Tenir // tenir	Halten	segurar, agarrar	Держать // держать	拿	to hold (in hand)			to hold		hold
+226	HOOF	152		Natural horn covering of an animal's foot.						蹄子						
+227	HORIZONTAL	2376		Plane is said to be horizontal at a given point if it is perpendicular to the gradient of the gravity field at that point— in other words, if apparent gravity makes a plumb bob hang perpendicular to the plane at that point. 						橫						
+228	HORN (ANATOMY)	1393		A hard growth of keratin that protrudes from the top of the head of certain animals.	cuerno	Corne // corne	Horn	chifre, corno	Рогъ // рог	角 // 角（牛角）		horn	horn		horn	horn
+229	HORSE	615		A large animal with four legs of the Equus caballus species which people ride on or use for carrying things or pulling vehicles.	caballo	Cheval // cheval	Pferd	cavalo	Конь // лошадь, конь	马					horse	horse
+230	HOT	1286	HOT OR WARM (-1, Swadesh-1955-100)	Having a very high temperature.	caliente	Ardent // chaud	Heißs // heiss	quente	Жарко // горячий	热 // 熱						hot
+231	HOUSE	1252		The abode of a human being, their place of residence.	casa	Maison // maison	Haus	casa	Домъ // дом	房 // 房子 // 房子 [B = 房屋]			house	house	house	house
+232	HOW	1239		In what way.	como // ¿cómo?	Comment // comment?	Wie // wie	como?	Какъ // как // как?	如何 // 怎么 // 怎么样 // 怎样 // 怎麼	how			how?		how
+233	HUNDRED	1634		The cardinal number occurring after ninety-nine and before one hundred one, represented in Roman numerals as C and in Arabic numerals as 100.	ciento, cien	Cent // cent	Hundert	cento, cem	Сто // сто	一百 // 百				One Hundred	hundred	hundred
+234	HUNT	1435		To chase down prey and (usually) kill it.	cazar	chasser		caçar	охотиться	打猎 // 打獵 // 狩猎 [B = da lie] // 追	to hunt (game)			to hunt	drive/hunt	hunt
+235	HURT (SOMEBODY)	2411		Imposing pain on somebody else.												hurt
+236	HUSBAND	1200		The male partner in a marriage.	esposo // marido, esposo	Mari // mari, époux	Mann	marido	Мужъ // муж	丈夫	husband			husband		husband
+237	I	1209		The speaker or writer referring to himself or herself alone.	yo	Je // je // je, moi	Ich // ich	eu	1-е лицо // Я // я // ѣ	我	I	I	1sg pronoun	I	I	I (1sg.)
+238	ICE	617		The dense substance formed by the freezing of water to the solid state; it commonly occurs in the form of hexagonal crystals.	hielo	Glace // glace, verglas	Eißs	gelo	Лед // Ледъ // лед, гололед // лёд	冰	ice					ice
+239	IF	1459		[The introduction of a condition or decision.]	si	si		se	если	如果	if			if		if
+240	IN	1460		Contained or encased by.	en	Enemi	In		Во	在 // 在···里	in		in	in, inside		in
+241	INSECT	620		A class of the Arthropoda typically having a segmented body with an external chitinous covering, a pair of compound eyes, a pair of antennae, three pairs of mouthparts, and two pairs of wings.	insecto	insecte		inseto	насекомое	虫子					insect, bug, vermin	insect
+242	INSIDE	1606		Within the confines of a building.	adentro, dentro	dans, dedans		dentro	в, внутри	裏面 // 里边 // 里面						
+243	IRON	621		A malleable ductile silvery-white ferromagnetic metallic element with symbol Fe and atomic number 26, occurring principally in haematite and magnetite. It is widely used for structural and engineering purposes.	hierro	Fer // fer	Eisen // Eißen	ferro	Железо // железо						iron	iron
+244	ITCHY	149		Having a sensation that provokes the need to scratch.						痒					itchy	itchy
+245	JACKFRUIT	2655		A species of tree in the fig, mulberry and breadfruit family (Moraceae).												jackfruit (fruit)
+246	JOINT	999		Any part of the body where two bones join.						关节					joint	joint
+247	KAPOK TREE	2499		Either the Bombax ceiba (tree with red flowers), or the Calotropis procera, or the Ceiba pentandra.												kapok
+248	KICK	1135		To strike somebody or something with the foot.	patear	donner un coup de pied		dar um pontapé, chutar	пинать	踢					kick	kick
+249	KILL	1417		To put to death; to end a life.	matar	tuer	töten	matar	убивать	杀 // 殺	to kill	kill		to kill	kill	kill
+250	KNEAD	274		To press a dough many times with one's hands.	amasar	pétrir		amassar	месить (тесто)	捏 // 揉						
+251	KNEE	1371		In man, the joint in the middle part of the leg.	Rodilla // rodilla	Genou // genou	Knie	joelho	List // Колено // колено	膝 // 膝盖 // 膝蓋		knee	knee			knee
+252	KNEEL	66		To go down on one or both knees.	arrodillarse	s'agenouiller		ajoelhar	становиться на колени	跪						kneel
+253	KNIFE	1352		A utensil consisting of a sharpened piece of hard material such as steel or other metal, ceramic, glass or stone, usually attached to a handle, that is formed in a manner that allows for cutting softer materials, especially meat or other food.	cuchillo // cuchillo (herramienta) // cuchillo (para cortar comida)	Couteau // couteau // couteau (de table)	Messer // Meßßer	faca	Ножъ // нож	刀 // 刀子 [B = 刀] // 小刀兒						knife
+254	KNOW (SOMETHING)	1410		To be certain or sure about something.	saber	savoir	wissen	saber	знать	知道	to know (facts)	know	to know	to know, be knowledgeable	know	know
+255	LAKE	624		An enclosed body of water, usually but not necessarily fresh water, from which the sea is excluded.	lago	Lac // lac	See	lago	Озеро // озеро	湖	lake			lake		lake
+256	LATE	477		Towards the end of a time period.	tarde	tard		tarde	поздно	晚 // 迟						
+257	LAUGH	1355		To express pleasure, mirth or derision by peculiar movement of the muscles of the face, particularly of the mouth, causing a lighting up of the face and eyes, and usually accompanied by the emission of explosive or chuckling sounds from the chest and throat.	reír	Rire // rire	Lachen	rir	Смѣаться // смеяться	笑 // 笑（有声的）	to laugh		to laugh	to laugh	laugh	laugh
+258	LEAF	628		The main organ of photosynthesis and transpiration in higher plants, usually consisting of a flat green blade attached to the stem directly or by a stalk.	Hoja // hoja // hoja de árbol	Feuille // feuille	Blatt	folha	Ziliony // Листъ // лист	叶 // 叶子 // 葉 // 葉子	leaf	leaf	leaf	leaf	leaf	leaf
+259	LEARN	504		To acquire, or attempt to acquire knowledge or an ability to do something.	aprender	apprendre		aprender	узнавать, учить(ся)	學						
+260	LEECH	2273	WATER LEECH (1, Mann-2004-500), WATER LEECH (1, Matisoff-1978-200)	Segmented worms that belong to the phylum Annelida and comprise the subclass Hirudinea.						水蛭					leech	leech (land)
+261	LEFT	244		Something that is on the left side relative to another object.	izquierda // izquierdo	gauche		esquerda	левая (сторна) // левый	左 // 左边 // 左邊	left (hand)			left	left side	left (hand)
+262	LEG	1297	FOOT OR LEG (-1, Blust-2008-210), FOOT OR LEG (-1, Tadmor-2009-100)	The limb of an animal (including humans) that extends from the groin to the ankle.	pierna // pierna, pata	jambe		perna	нога	大腿 [B = 腿] // 脚 // 腿	leg					leg
+263	LET GO OR SET FREE	1095		To give freedom; to release from confinement or restraint.	soltar	libérer		largar, soltar	отпускать	释放					let go; set free; loosen	
+264	LICK	319		To stroke with the tongue.	lamer	lécher		lamber	лизать	添 // 舔					lick	lick
+265	LIE (MISLEAD)	601		To knowingly say something that is untrue.	mentir	mentir		mentir	лгать	说谎						lie, fib
+266	LIE (REST)	1411		To rest in a horizontal, static position, usually on another surface.	acostado	Coucher // être couché	Liegen // liegen		Лечь // лежать	趟 // 躺	to lie	lie				lie on side
+267	LIE DOWN	215		(For a human or animal) to assume a horizontally extended position on a surface.	Acostarse // acostarse // acostarse, echarse	se coucher		deitar-se	Zhivot // ложиться	躺				to lie down		
+268	LIFT	501		To cause an object to have a higher location than previously.	levantar	lever, élever		levantar, içar	поднимать							lift
+269	LIGHT (WEIGHT)	1052		With a small mass, little weight or density; the opposite of heavy.	liviano, ligero // liviano, ligero (que pesa poco)	Leger // léger	Leicht	leve	Легокъ // легкий	輕 // 轻					lightweight	lightweight
+270	LIGHTNING	1654		The flash of light caused by the discharge of atmospheric electrical charge.	relámpago	éclair		relâmpago	молния	闪电				lightning		lightning
+271	LIME (FRUIT)	982		A green citrus fruit												lime
+272	LIP	478		Either of the two fleshy protrusions around the opening of the mouth.	labio	Lévres // lèvre	Lippen	lábio	Губы // губа	唇						
+273	LIQUOR	842		Alcoholic beverage containing more than 20 percent alcohol.						酒					liquor	liquor
+274	LIVER	1224		A large organ in the body that stores and metabolizes nutrients, destroys toxins and produces bile. Responsible for thousands of biochemical reactions.	hígado	foie	Leber	fígado	печень	肝 // 肝脏 // 豬肝	liver	liver	liver	liver	liver	liver
+275	LIZARD	632		Any reptile of the suborder Lacertilia, especially those of the family Lacertidae, typically having an elongated body, four limbs, and a small tail: includes the gechos, iguanas, chameleons, monitors, and slow worms.	lagartija	lézard		lagarto	ящерица							lizard (house)
+276	LOINCLOTH	1965		A cloth worn to cover the loins.												sarong
+277	LONG	1203	LONG OR TALL (-1, Matisoff-1978-200)	Having much distance from one terminating point on an object or an area to another terminating point.	largo	long	lang	comprido	длинний // длинный // длинный, долгий	長 // 长	long	long	long	long		long
+278	LOOSE	2506		Being not tight.												loose
+279	LOUSE	1392		A small wingless parasitic insect of the order Phthiraptera that lives on humans, other mammals and birds.	piojo	pou	Laus	piolho	вошь	獅子 // 虱 // 虱子 // 蝨子	louse	louse	louse	louse	louse	louse
+280	LOVE	923		To have an intense feeling of affection and care towards another person.	querer	Aimer // Amour // aimer, amour	Liebe // Lieben // lieben	amar	Любить // Любовь // любить	爱						love
+281	LUNG	688		A biological organ that extracts oxygen from the air.	pulmones // pulmón	poumon		pulmão	легкое	肺						lungs
+282	MAIZE	506		A type of grain of the species Zea mays.	maíz	maïs		milho	кукуруза	玉米						corn
+283	MALE PERSON	2106	MAN (1, Swadesh-1955-100), MAN (1, Mann-2004-500)	A human belonging to the male sex.					мужчина		man (male human)			man/male		
+284	MANGO	2398		The fruit from the Mango tree.												mango (fruit)
+285	MANY	1198		An indefinite large number of.	mucho // mucho(s) // mucho(s)!!!, harto // muchos	beaucoup	viele	muito, muitos	много	多	many	many				many
+286	MARROW	1835		Any of various squash plants grown for their elongated fruit with smooth dark green skin and whitish flesh.						骨髓					marrow	marrow
+287	MARRY (AS MAN)	2164		To enter marriage from the perspective of a man.						娶 // 結婚（指男方）						
+288	MAT	195		A flat object laid on the floor to protect a person from the hard floor.	estera	natte		tapete	циновка	席 // 草席						mat
+289	MIDDAY	12		Time of day when the sun is in its zenith.	mediodía	midi		meio dia	полдень	中午						noon
+290	MIDDLE	1093		Being in the midway between the ends.	medio, centro	milieu, centre		meio, centro	середина, центр	中間 // 当中						
+291	MONKEY	1350		A primate from the group “New World monkeys” or “Old World monkeys” (Simiiformes, excluding the superfamily Hominoidea or apes) that lives mainly in rainforests and is distinguished from an Ape by its smaller size and its tail.	mono	singe		macaco	обезьяна	猴子					monkey	monkey // monkey
+292	MOON	1313		A natural satellite of a planet.	Luna // luna	Lune // lune	Mond	lua	Ptitsa // Мѣсяцъ // луна	月 // 月亮		moon		moon	moon	moon
+293	MORNING	1339		The period of time from the start of the day (midnight) until midday (12:00).	mañana	Matin // matin, matinée	Morgen	manhã	Утро // утро	早上 ［早晨］ // 早晨						morning
+294	MORTAR CRUSHER	224		A bowl used to crush and grind ingredients with a pestle.	argamasa // mortero	mortier		argamassa // morteiro	известковый раствор // ступка, ступа						mortar	mortar
+295	MOSQUITO	1509		A small flying insect (of the family Culicidae) known for biting and sucking blood.	mosquito // zancudo	Coußin // moustique	Mücke	mosquito	Комарь // москит (тропический комар)	蚊子				mosquito		mosquito
+296	MOTHER	1216		A woman who has at least one child.	madre	Mére // mère	Mutter	mãe	Мать // мать	妈妈 // 媽媽 // 母亲 // 母親	mother			mother		mother
+297	MOUNTAIN	639		A feature of the earth's surface that rises high above the base and has generally steep slopes and a relatively small summit area.	Montaña // cerro // montaña	Montagne // montagne	Berg		Gusenitsa // Гора // гора	山	mountain	mountain			mountain	mountain
+298	MOUTH	674		Opening in the lower half of a human face which is used for food ingestion and articulation.	Boca // boca	Bouche // bouche	Mund	boca	Ogon // Ротъ // рот	口 // 嘴 // 嘴巴 // 最	mouth	mouth	mouth	mouth	mouth	mouth
+299	MUD	640		A mixture of clay and/or silt with water to form a plastic mass with a particle size preponderantly below 0.06 mm diameter. It is deposited in low-energy environments in lakes, estuaries and lagoons. It may also be deposited in deep-sea environments. (Source: WHIT)	lodo	boue		lama, lodo	грязь	泥 // 泥巴 ［B = 泥土]						mud
+300	MUROID (MOUSE OR RAT)	2139	RAT (1, Blust-2008-210), RAT (1, Mann-2004-500)	A large superfamily of rodents, including hamsters, gerbils, true mice and rats, and many other relatives.	ratón, rata	souris, rat		rato, camundongo, ratinho	мышь, крыса	老鼠					rat/rodent	
+301	MUSHROOM	641		An organism belonging to a family of Basidiomycetes that are characterized by the production of spores on gills.	hongo, seta	champignon		cogumelo	гриб	菌子 // 蘑菇					mushroom/fungus	mushroom/fungus
+302	NAKED	590		Without clothing.	desnudo	nu		despido, nu	голый, обнаженный							naked
+303	NAME	1405		Any word or phrase which designates a particular person, place, class or thing.	nombre	Nom // nom	Nahme // Name	nome	Имя // имя // название, имя	名 // 名子 // 名字 // 姓名	name	name	name	name	name	name
+304	NARROW	1267		Having a small width.	angosto, estrecho // estrecho	étroit		estreito	узкий	窄	narrow			narrow		narrow
+305	NASAL MUCUS (SNOT)	208		Mucus from the nose.	moco	morve, mucus		muco	слизь, сопля	鼻涕					snot	snot
+306	NAVEL	1838		A scar where the umbilical cord was attached.	ombligo	nombril		umbigo	пуп	肚脐			navel		navel	navel // navel
+307	NEAR	1942		Not far distant in time or space or degree or circumstances.	cerca	Proche // près	Nahe	perto, próximo	Блиско // близко // близко // блиский // рядом	近	near			near	near	near
+308	NECK	1333		The part of the body (found in some animals, including humans) that connects the head and the trunk.	Cuello // cuello	Col // cou	Hals // Nacken	pescoço	Jaitso // Шея // шея	脖子 // 腳 // 頸 // 颈	neck	neck	neck	neck	neck	neck
+309	NEEDLE (FOR SEWING)	1382		A thin, sharp implement used in sewing, knitting and acupuncture.	aguja	aiguille		agulha	игла	針 // 针				needle	needle	needle
+310	NEST	539		A nest is a structure built by vertebrates to hold its eggs, its offspring, or occasionally the animal itself and may be composed of organic material such as twigs, grass, and leaves, or may be a simple depression in the ground, or a hole in a rock, tree, or building.	nido	Nid // nid	Neßt	ninho	Гнѣздо // гнездо	巢						bird nest
+311	NEW	1231		Recently made, created or begun.	nuevo	neuf // nouveau	neu	novo	новый	新	new	new	new	new	new	new
+312	NIGHT	1233		The period between sunset and sunrise, when a location faces far away from the sun, thus when the sky is dark.	noche	Nuit // nuit	Nacht	noite	Ночь // ночь	夜 // 夜里 // 夜里 [夜晚] // 晚上	night	night	night	night	night	night
+313	NINE	1483		The ninth natural number (9).	nueve	Neuf // neuf	Neun // neun	nove	Девять // девять	九				Nine	nine	nine
+314	NIT	267		An egg of a louse that is sometimes found in people's hair.	liendre	lente		lêndea	гнида							
+315	NO OR NOT	2279	NOT (1, Mann-2004-500), NOT (1, Swadesh-1955-100), NOT (1, Tadmor-2009-100), NOT (1, Swadesh-1952-200)	A word used to show disagreement with something or to negate something.										no, not		
+316	NORTH	1598		One of the four major compass points, specifically 0°, directed toward the North Pole, and conventionally upwards on a map.	norte	Septentrion // nord	Nord, Mitternacht // Norden	norte	Севѣръ // север							north
+317	NOSE	1221		The organ of the face used to breath and smell.	Nariz // nariz	Nez // nez	Nase // Naße	nariz	Oblako // Носъ // нос	鼻 // 鼻子	nose	nose	nose	nose	nose	nose
+318	OLD	1229	STDB (1, STDB-2016-250.tsv)	Having lived or existed for a relatively long period of time.	viejo	vieux // vieux, âgé	alt	velho	старый	老 // 老（不年轻）	old		old	old	old	old
+319	OLDER BROTHER (OF MAN)	2414		The older brother of a man.												brother (eldr. of m.)
+320	OLDER BROTHER (OF WOMAN)	2415		The older brother of a woman.												brother (eldr. of f.)
+321	OLDER SISTER (OF MAN)	2418		The older sister of a man.												sister (eldr. of m.)
+322	OLDER SISTER (OF WOMAN)	2419		The older sister of a woman.												sister (eldr. of f.)
+323	ONE	1493		The cardinal number that directly follows zero and precedes two, represented in Roman numerals as I, and in Arabic numerals as 1.	uno	Un // un	Eins // ein // eins	um, uma	Одинъ // один	一	one	one	one	One	one	one
+324	OPEN	1156		To make something accessible or removing an obstacle to something being accessible.	abrir	ouvrir		abrir, aberto	открывать	开（门） // 打开				to open, uncover		
+325	OPIUM	2498		The dried latex obtained from the opium poppy.												opium
+326	OTHER	197		The rest of a group of.	otro				другой, иной	其他	other			other		other
+327	OTTER	15		Any of several aquatic, furbearing, weasellike mammals of the genus Lutra , having webbed feet and a long, slightly flattened tail.	nutria, perro de agua					水獭					otter	otter
+328	OUTSIDE	762		In the open, not within a building.	afuera, fuera, exterior	dehors		fora	снаружи	外边 // 外面						
+329	PADDY FIELD	140		A flooded field where rice is grown.						水田					irrigated paddy field	irrigated paddy field
+330	PAINFUL OR SICK	2103	SICK (1, Mann-2004-500), SICK (1, Matisoff-1978-200)	To cause pain or to be ill.										painful, sick		
+331	PALM TREE	1181		Any of various evergreen trees from the family Palmae or Arecaceae, which are mainly found in the tropics.	palmera	palmier		palmeira	пальма						palm	palm
+332	PANGOLIN	2508		Mammals of the order Pholidota. The one extant family, Manidae, has three genera: Manis which comprises four species living in Asia, Phataginus which comprises two species living in Africa, and Smutsia which comprises two species also living in Africa.												pangolin // pangolin
+333	PAPAYA	2445		The fruit of the plant Carica papaya, and is one of the 22 accepted species in the genus Carica of the plant family Caricaceae. 												papaya // papaya
+334	PAPER	648		Felted or matted sheets of cellulose fibers, formed on a fine-wire screen from a dilute water suspension, and bonded together as the water is removed and the sheet is dried.	papel	papier		papel	бумага	纸						paper
+335	PATH OR ROAD	2457	ROAD (1, Swadesh-1955-100), STDB (1, STDB-2016-250.tsv), ROAD (1, Matisoff-1978-200), ROAD (1, Swadesh-1952-200), ROAD (1, Mann-2004-500)	A piece of ground that people can walk or drive along.										road/path		
+336	PAY	718		To give money in exchange for goods or services.	pagar	payer		pagar	платить	工钱						pay
+337	PEANUT	2364		 A species in the family Fabaceae (commonly known as the bean, pea or legume family). 												peanut
+338	PENIS	1222		The male sexual organ for copulation and urination; the tubular portion of the male genitalia (excluding the scrotum).	pene	pénis		pênis	пенис	阴茎 [B = 男生殖器]					penis	penis
+339	PERSON	683		A human being.	gente // persona // persona, ser humano	Homme // personne // personne, être humain	Mensch // Menßch	pessoa, ser humano	Человѣкъ // человек // человек, личность	人	person	person		person/human being	person/human being	person
+340	PERSPIRE OR SWEAT	2458		Either the action of sweating or the product.						汗 // 汗水 [B = 汗]					sweat	sweat
+341	PESTLE	225		A heavy cylindrical object with a rounded end used for crushing and grinding.	mano de mortero	pilon		mão de pilão, almofariz	пестик	杵 [B = 杵棒]						pestle
+342	PIG	1337		A common, four-legged animal (Sus scrofa) that has cloven hooves, bristles and a nose adapted for digging and is farmed by humans for its meat.	cerdo, puerco	Cochon // porc, cochon	Schwein	porco	Свинья // свинья	猪					pig	pig
+343	PILLOW	1044		Cushion placed under the head for sleeping.	almohada	oreiller		almofada, travesseiro	подушка							pillow
+344	PISS	592		To allow urine to flow from the bladder out of the body.	orinar	uriner		urinar	мочиться	尿					piss	
+345	PLANT (SOMETHING)	1486		To put a plant in the ground so that it strikes root and grows.	plantar, sembrar	planter		plantar, semear	выращивать	栽种				to plant		
+346	PLANT (VEGETATION)	653		Any living organism that synthesizes its food from inorganic substances, possesses cellulose cell walls, responds slowly and often permanently to a stimulus, lacks specialized sense organs and nervous system, and has no powers of locomotion.	planta	plante		planta	растение							plant
+347	PLANTAIN	399		A plant of the genus Plantago, with a rosette of sessile leaves about 10 cm long with a narrow part instead of a petiole, and with a spike inflorescence with the flower spacing varying widely among the species.	plátano					大蕉					plantain/banana	banana/plantain
+348	PLATE	480		A dish on which food is served or from which food is eaten.	plato	assiette		prato	тарелка							plate
+349	PLAY	1413		To act in a manner such that one has fun; to engage in playful activities expressly for the purpose of recreation.	jugar	jouer		jogar, brincar	играть	玩 // 玩儿 // 玩兒 // 玩耍	to play					play
+350	POISON	655		A substance which, when ingested, inhaled, or absorbed, or when applied to, injected into, or developed within the body, in relatively small amounts, may cause injury, harm, or destruction to organs, tissue, or life.	veneno	Poißon // poison	Gift	veneno	Ядъ // яд	毒药					poison [antifood]	poison
+351	PORCUPINE	2510		 Rodents with a coat of sharp spines, or quills, that protect against predators.												porcupine
+352	POT	1462		A generic kitchen utensil used for cooking food by boiling, frying or other methods.	olla	casserole, marmite		panela	горшок, котелок							pot (cooking)
+353	POTION	2268	MEDICINE (1, Mann-2004-500)	A specific drink that enhances healing and recovering.											medicine/juice	
+354	POUND	354		To strike hard, usually repeatedly.	machacar con el puño	marteler de ses poing		bater com o punho	колотить кулаком					to pound, beat		pound (rice)
+355	PULL	1455		To apply a force to (an object), in order that it moves towards the origin of the force that was applied.	jalar, halar // tirar, jalar	Dechirer // tirer	Reßßen	puxar	Драть // тянуть	拉 // 拉（拉车） // 拖	to pull					pull
+356	PUS	1808		A whitish-yellow or yellow substance produced during inflammatory responses of the body that can be found in regions of pyogenic bacterial infections.	pus	pus		pus	гной							pus
+357	PUSH	1452		To apply a force to (an object), in order that it moves away from the origin of the force that was applied.	empujar	pousser		empurrar	толкать	推	to push					push
+358	PUT	998		To set or place an object in a different place than it original was.	poner	mettre		pôr	положить	放 [B = fangzhi]					put, place	put/place
+359	RABBIT	1136		One of several small mammals of the family Leporidae, with long ears, long hind legs and a short, fluffy tail.	conejo	lapin		coelho	кролик	兔						rabbit
+360	RAINBOW	1733		A multicoloured arc in the sky caused by the refraction of light within droplets of rain in the air.	arco iris	Arc-en-ciel // arc-en-ciel	Regenbogen	arco-íris	Радуга // радуга	彩虹 [B = 虹] // 虹						rainbow
+361	RAINING OR RAIN	2108	STDB (1, STDB-2016-250.tsv), RAIN (PRECIPITATION) (1, Blust-2008-210), RAIN (RAINING) (1, Swadesh-1952-200), RAIN (PRECIPITATION) (1, Mann-2004-500), RAIN (PRECIPITATION) (1, Tadmor-2009-100), RAIN (PRECIPITATION) (1, Matisoff-1978-200)	The process by which water falls from the clouds or the water that falls from the clouds.					дождь			rain				
+362	RATTAN	2497		Material from rattan palms which is used to create furniture.												cane/rattan
+363	RED	156		Having red as its colour.	Rojo // rojo	Rouge // rouge	Roth // rot	vermelho	Lietat // Краско // Красно // красный	紅 // 红	red	red	red	red	red	red
+364	RESIDE	1099		To have permanent residence.												
+365	RIB	801		One of the long curved bones which form the rib cage.	costilla	côte		costela	ребро							rib
+366	RICE	926		Seeds of the rice plant (Oryza sativa) used as food.	arroz	riz		arroz	рис	稻 // 米						rice (pounded) // rice seedling
+367	RICE PLANT	2026		An erect grass, Oryza sativa, that grows in East Asia on wet ground and has drooping flower spikes and yellow oblong edible grains that become white when polished.						稻子					rice (in fields)	rice (in fields)
+368	RIGHT	1019		Something that is on the right side relative to another object.	derecha // derecha (mano) // derecho	droite		direita	правая (сторона) // правый	右 // 右边 // 右邊	right (hand)			right	right side	right(hand)
+369	RING	1374		A round piece of (precious) metal worn around the finger.	anillo, sortija	bague, anneau		anel	кольцо							ring (finger)
+370	RIPE	178		(Of fruits, seeds, etc.) Having reached the stage of development suitable for harvesting and eating.	maduro	mûr		maduro	зрелый, спелый	熟					ripe/well-cooked	ripe
+371	RIVER	666	STREAM (1, Mann-2004-500)	A stream of water which flows in a channel from high ground to low ground and ultimately to a lake or the sea, except in a desert area where it may dwindle away to nothing.	río // río, corriente, arroyo	Rivière // fleuve, rivière, ruisseau	Flußs	rio, riacho, córrego	Рѣка // река // река, поток, ручей	江 // 江 [B = 河］ // 河	river				river/valley	river
+372	ROOT	670		The absorbing and anchoring organ of a vascular plant; it bears neither leaves nor flowers and is usually subterranean.	raíz	Racine // racine	Wurtzel // Wurzel	raiz	Корень // корень	根 // 根儿	root	root	root	root	root	root
+373	ROPE	1218		Thick, strong string made of several strands that have been twisted together.	cuerda // cuerda, soga // soga, cuerda	corde		corda, cordel	веревка // верёвка	索, 绳 // 繩子 // 绳 // 绳子	rope		rope	rope		rope
+374	ROTTEN	1728		Having changed its colour, smell or composition (partially or completely), due to being attacked and decomposed by microorganisms (relating to organic matter).	podrido	pourri		podre	гнилой	烂 // 腐烂 // 腐烂 [B = lan (gua = of gourd)] // 腐爛	rotten (especially log)			rotten		rotten
+375	ROUND	1395		Circular or having a circular cross-section in at least one direction.	redondo	Rond // rond	Rund // rund	redondo	Кругло // круглый	圆 // 圓		round			round	round
+376	RUB	1449		To move one's hand or an object over a surface or other object (maintaining constant contact and applying moderate pressure).	frotar // frotar, enjugar	frotter, essuyer		esfregar	стереть	擦	to rub				rub	rub
+377	RUN	1519	RUN AWAY (1, Mann-2004-500), RUN AWAY (1, Matisoff-1978-200)	To move quickly by alternately making a short jump off of either foot.	correr	Courir // courir	Laufen // laufen	correr	Бѣжать // бежать	跑			to run			
+378	SALIVA	1503		A secretion from the salivary glands (found in the mouth) that can be spat out.	saliva					口水						saliva
+379	SALT	1274		A condiment (NaCl - Sodium Chloride) used to add to or enhance the flavour of food (commonly with pepper).	sal	Sel // sel	Saltz	sal	Соль // соль // соль	盐 // 鹽	salt		salt	salt	salt	salt
+380	SALTY	1091		Containing salt.	salado	salé	salzig	salgado	соленый	咸 // 鹹						
+381	SAME	200		Bearing full likeness by having precisely the same set of characteristics.												same
+382	SAND	671		A loose material consisting of small mineral particles, or rock and mineral particles, distinguishable by the naked eye; grains vary from almost spherical to angular, with a diameter range from 1/16 to 2 millimeters.	arena	Sable // sable	Sand	areia	Песокъ // песок	沙 // 沙子	sand	sand	sand	sand		sand
+383	SAY	1458		To communicate orally, using a particular language; to express in words.	Decir (hablar) // decir	dire	sagen	dizer	Noga // говорить // сказать	說 // 说	say	say	to say	to say		
+384	SCORPION	1538		An arthropod with eight legs, belonging to the order Scorpiones in the class Arachnida.	alacrán	scorpion		escorpião	скорпион							scorpion
+385	SCRATCH	1436		To rub or scrape (a part of the body) with a sharp object (e.g. to relieve an itching).					царапать	抓 // 抓癢 // 搔	to scratch (as with fingernails to relieve itch)			to scratch	scratch (scrape)	scratch
+386	SEA	1474		A body of salt water that is smaller than an ocean and generally in proximity to a continent.	mar	mer		mar	море	海	sea (ocean)			sea		sea
+387	SEE	1409		To perceive [images] with the eye, without necessarily paying attention to them.	ver	Voir // voir	Sehen // sehen	ver	Бидѣть // видеть	看 // 看見 // 看见 // 看见 [B = 见] // 见	see	see	to see	to see	see	see
+388	SEED	714		A mature fertilized plant ovule, consisting of an embryo and its food store surrounded by a protective seed coat (testa).	semilla	Graine // graine, semence // semence	Same // Samen	semente	Сѣмя // семя // семя, семена	种 // 种子 // 種子 // 種籽	seed	seed				seed
+389	SELL	1571		To provide goods or services in exchange for money.	vender	vendre		vender	продавать	卖					sell	sell
+390	SEVEN	1704		The cardinal number occurring after six and before eight, represented in Roman numerals as VII, in Arabic numerals as 7.	siete	Septentrion // sept	Sieben // sieben	sete	Семь // семь	七				Seven	seven	seven
+391	SEW	1457		To pass thread repeatedly through fabric or a material, using a needle, in order to join two or more parts or to make a pattern or motif.	coser	coudre		costurar	шить	縫 // 缝 // 缝纫 [B = feng]	to sew			to sew	sew	sew
+392	SHADE	1388		Darkness, where light (particularly sunlight) is blocked.	sombra	Ombre // ombre	Schatten	sombra	Тѣнь // тень	影子			shade/shadow		shade/shadow	shade/shadow
+393	SHALLOW	193		Having little depth.	bajo, poco profundo	peu profond		raso, baixo	мелкий	浅						shallow
+394	SHARP	1396		Having the ability to cut easily.	afilado // afilado, aguzado, filoso	Aigû // tranchant, aiguisé	Scharf	agudo, afiado	Остро // острый	尖 // 快(刀) // 快(鋒利） // 快（刀） // 锋利	sharp (as knife)			sharp	sharp	sharp
+395	SHAVE	231		To cut the hair close to the skin with a razor.						剃（头）						shave (beard)
+396	SHEEP	1331		A common, four-legged animal (Ovis) that is commonly kept by humans for its wool.	oveja	Brebis // mouton	Schaf	ovelha	Овца // овца, баран	绵羊 // 羊						
+397	SHIN	186		The front part of the leg below the knee.	espinilla											shin
+398	SHIT (DEFECATE)	676		To excrete faeces from one's body through the anus.	defecar, excremento (noun)	déféquer		defecar	испражняться	屎					shit	
+399	SHIVER	52		To shake nervously, as if from fear.	temblar	Trembler // frissonner	Zittern	tiritar, tremer	Дрожать // дрожать	发抖						shiver
+400	SHOOT	1172		To kill a person or an animal with a shot from a firearm.	tirar, disparar	tirer, fusiller		disparar, fuzilar	стрелять	射 // 芽				to shoot	shoot	shoot
+401	SHORT	1645		Small in length by comparison.	corto	court	kurz	curto	короткий // короткий	宽 // 短 // 矮	short			short		short (length)
+402	SHOULDER	1482		One side of the top of the torso, where an arm attaches or joins.	hombro	Epaule // épaule	Schulter	ombro	Плечо // плечо	肩膀				shoulder		
+403	SHOUT	715		To utter a sudden and loud outcry.	gritar	Crier // crier, écrier	Kreißchen	gritar	Кричать // кричать	喊						shout
+404	SHY	487		(For a personality) characterized by being uncomfortable with having attention drawn to them, for example when introducing oneself or when speaking in front of an audience.						害羞				shy, ashamed		
+405	SICKLE	341		An implement, having a semicircular blade and short handle, used for cutting long grass and cereal crops in agriculture						鐮刀						
+406	SILVER	759		A very ductile malleable brilliant greyish-white element with symbol Ar and atomic number 47 having the highest electrical and thermal conductivity of any metal.	plata	Argent // argent	Silber	prata	Сребро // серебро	银 [B = 银子] // 银子					silver	silver
+407	SING	1261		To produce harmonious sounds with one's voice.	cantar	Chanter // chanter	Singen	cantar	Пѣть // петь	唱 // 唱 [B = chang ge]	to sing					sing
+408	SINK (DESCEND)	1088		To cause a boat to go down in the water.	hundir	couler, sombrer		afundar	погружаться в воду, тонуть							sink
+409	SIT	1416		To be in a position with the upper body upright and the legs resting.	Sentarse // estar sentado // sentado // sentar // sentarse, sentado	s'asseoir // être assis	sitzen	sentar-se	Ceja // сидеть	坐	sit	sit		to sit	sit	sit
+410	SIX	1703		The cardinal number occurring after five and before seven, represented in Roman numerals as VI, in Arabic numerals as 6.	seis	Six // six	Sechs // sechs	seis	Шесть // шесть	六				Six	six	six
+411	SKIN	763	BARK OR SKIN (-1, Matisoff-1978-200), SKIN (HUMAN) (1, Swadesh-1952-200)	The tissue forming the outer covering of the vertebrate body: it consists of two layers, the outermost of which may be covered with hair, scales, feathers, etc. It is mainly protective and sensory in function.	piel // piel, cutis, pellejo	Peau // peau	Haut	pele, couro	Кожа // кожа // кожа, шкура	皮 // 皮肤 // 皮膚 // 膚		skin	skin/hide	skin		skin
+412	SKY	1732		The part of the earth's atmosphere and space outside it that is visible from earth's surface. During the day it is perceived as blue, and at night as black.	cielo	Ciel // ciel	Himmel	céu	Небо // небо	天 // 天空	sky			sky	sky	sky
+413	SLEEP	1585		To rest in a state of decreased consciousness and reduced metabolism.	Dormir // dormir	Dormir // Someil // dormir // sommeil	Schlafen // schlafen	dormir	Rot // Сонъ // Спать // спать	睡 // 睡覺 // 睡觉	sleep	sleep		to sleep	sleep/lie down	sleep
+414	SLOW	701		With low speed.	despacio, lentamente	lent		vagaroso, devagar	медленный	慢 // 慢慢						slow
+415	SMALL	1246	SMALL (NOT TALL) (1, Mann-2004-500)	Not large or big; small in size.	chico // chico, pequeño // pequeño	Petit // petit	Klein // klein	pequeno	Мало // маленький	小 // 细	small	small	small	small		small
+416	SMELL	2124	SMELL (PERCEIVE) (1, Swadesh-1952-200), SMELL (PERCEIVE) (1, Blust-2008-210), STDB (1, STDB-2016-250.tsv)	Perceive or emit odour.	oler				нюхать	聞					smell	smell
+417	SMILE	1451		To make an upwards movement of the sides of the mouth, that indicates happiness or satisfaction.	sonreír	sourire		sorrir	улыбаться	微笑						smile
+418	SMOKE (EXHAUST)	778		An aerosol, consisting of visible particles and gases, produced by the incomplete burning of carbon-based materials, such as wood and fossil fuels.	humo	fumée	Rauch	fumaça	дым	烟 // 煙	smoke (of fire)	smoke	smoke	smoke	smoke	smoke
+419	SMOOTH	1234		Not rough; having a surface texture that lacks friction.	liso // suave, liso	lisse		liso, macio	гладкий // гладкий, ровный	光滑 // 平 // 軟	smooth					smooth
+420	SNAIL	1543		(Gastropoda) Ventral footed mollusk, including land snails, terrestrial pulmonate gastropod mollusks.	caracol	escargot		caracol	улитка							snail
+421	SNAKE	730		Any reptile of the suborder Serpentes, typically having a scaly cylindrical limbless body, fused eyelids, and a jaw modified for swallowing large prey.	Serpiente // coral // culebra, serpiente // serpiente, culebra	Serpent // serpent // serpent, couleuvre	Schlange	cobra	Slushat // Змея // змея // змея	蛇	snake			snake	snake	snake
+422	SNEEZE	1621		To expel air rapidly as a reflex, usually induced by an irritation in the nose.	estornudar	Eternuer // éternuer	Nießen	espirrar	Чихать // чихать	打喷嚏						sneeze
+423	SNORE	1983		To make a noise during sleep by vibration of soft respiratory tissues (soft palate, base of the tongue and pharyngeal walls), particularly during inhalation.	roncar	ronfler		roncar, ressonar	храпеть							snore
+424	SNOW	784		The most common form of frozen precipitation, usually flakes or starlike crystals, matted ice needles, or combinations, and often rime-coated.	nieve	Neige // neige	Schnee	neve	Снѣгъ // снег	雪	snow					snow
+425	SOFT	1856		A state of consistency allowing alterations of form with ease, no big force required, to bring things into something of this state (such as e.g. soaked loam or clay soil).	suave	doux		macio, mole	мягкий	光滑 // 軟 // 软					soft (to touch)	soft (touch)
+426	SOME	1241		An unspecified quantity or number of.	un poco, algo, alguno	un peu		alguns	несколько	几个	some					some
+427	SON-IN-LAW	1056		The husband of someone's daughter.						女婿					son-in-law	son-in-law
+428	SOUR	1906		Having an acid, sharp or tangy taste.	ácido, agrio	âpre, acide, aigre		ácido, azedo	кислый	酸					sour	sour
+429	SOUTH	1595		One of the four major compass points, specifically 180°, directed toward the South Pole, and conventionally downwards on a map.	sur	Midi // sud	Süd, Mittag // Süden	sul	Югъ // юг							south
+430	SOW SEEDS	748		To scatter or disperse seeds on a field.	sembrar, desparramar	semer		semear	сеять, засевать							
+431	SPARROW	1854		A small song bird, in the family Passeridae.		Moineau	Serling		Воробей	麻雀						
+432	SPEAK	1623		To communicate by the use of sounds that are interpreted as language; to communicate verbally.	hablar	Parler // parler	Reden // sprechen	falar	Горовить // говорить, разговаривать	说话 [B = 说]						speak
+433	SPEAR	945		a long, stabbing weapon for thrusting or throwing, consisting of a wooden shaft to which a sharp-pointed head, as of iron or steel, is attached.	lanza	Lance // lance // épieu, lance	Spießs, Lanze	lança	Копье // копье							spear
+434	SPICY	544		Of, pertaining to, or containing spice; or spicy flavour: Provoking a burning sensation due to the presence of chillies or similar hot spices.						辣						spicy, hot
+435	SPIDER	843		Any predatory silk-producing arachnid of the order Araneae, having four pairs of legs and a rounded unsegmented body consisting of abdomen and cephalothorax.	araña	Araignée // araignée	Spinne	aranha	Паукъ // паук	蜘蛛				spider		spider
+436	SPIDER WEB	1065		A fine net of threads woven by a spider to catch insects	telaraña	toile d'araignée		teia de aranha	паутина	蜘蛛网						spider web
+437	SPIT	1440		To forcefully evacuate saliva from the mouth.	escupir // escupir (saliva [noun])	cracher		cuspir	плевать // плевать(ся), плевок	吐 // 吐（痰） // 呕吐	to spit			to spit	spit	spit
+438	SPLIT	1437		To divide fully or partly along a more or less straight line.	hender // hender, partir	fendre		fender, partir	расколоть	劈开 // 撕 // 撕裂	to split			to split		split // split w knife
+439	SPOON	1378		An implement for eating or serving, a small bowl with a long straight handle.	cuchara	cuiller		colher	ложка	勺子						spoon
+440	SQUEEZE	1414		To apply pressure to something from two or more sides at once.	apretar, exprimir // estrujar, exprimir	presser		espremer, comprimir	выжимать // сжимать	压 // 压榨 // 壓 // 挤	to squeeze			to squeeze	squeeze	squeeze
+441	STAB	1434		To pierce or to wound with a pointed tool or weapon, especially a knife or dagger.	apuñalar	poignarder		apunhalar	заколоть	刺	to stab (or stick)			to stab, pierce		stab
+442	STAND	1442		To be upright in an erect position, supported by the feet.	estar en pie // parado // poner(se) de pie // ponerse en pie, de pie	Arrête // se tenir debout // être debout	Stehe // stehen	estar em pé, ficar em pé	Стой // стоять	站	to stand	stand	to stand	to stand	stand	stand
+443	STAR	1430		A luminous celestial body that is made from gases (particularly hydrogen and helium) and forms the shape of a sphere.	estrella	Etoile // étoile	Stern	estrela	Звѣзда // звезда // звесда	星 // 星星	star	star	star	star	star	star
+444	STEAL	713		To take possession of property belonging to another without the consent of this owner; most typically when not observed, rather than by force.	robar	dérober // voler, dérober		roubar	воровать	偷				to steal	steal	steal
+445	STICK	1295		A long, thin piece of wood, mainly left in the shape in which it grew, that does not bend.	palo				палка	拐杖 // 棍 // 棍子	stick (of wood)			stick/wood	stick	stick
+446	STONE OR ROCK	2125	STONE (1, Matisoff-1978-200), STONE (1, Mann-2004-500), STONE (1, Swadesh-1955-100), STDB (1, STDB-2016-250.tsv), STONE (1, Swadesh-1952-200), STONE (1, Blust-2008-210)	A naturally occurring solid aggregate of one or more minerals or mineraloids.	piedra, roca	pierre, roc, rocher		pedra, calhau, rocha	камень, скала				stone/rock			
+447	STRAIGHT	1404		Not crooked or bent; having a constant direction throughout its length.	derecho, recto // recto	droit		direito, reto	прямой	直	straight					straight
+448	STRONG	785		Capable of producing great physical force.	fuerte, poderoso	Fort // fort, puissant	Stark // stark	forte, poderoso	Крѣпокъ // сильный, могущественный	强壮						strong
+449	SUCK	1421		To draw in a substance by creating a practical vacuum in the mouth, and as a result a difference in pressure.	chupar // chupar, mamar	sucer		chupar, sugar	сосать // сосать, впитывать	吮 // 啜	to suck		to suck	to suck		suck
+450	SUGAR CANE	146		A tropical grass of the genus Saccharum having stout, fibrous, jointed stalks, the sap of which is a source of sugar.	caña brava // caña de azúcar	canne à sucre		cana de açúcar	сахарный тростник							sugarcane
+451	SUN	1343	DAY OR SUN (-1, Matisoff-1978-200)	The particular star at the centre of our solar system, from which the Earth gets light and heat.	Sol // sol	Soleil // soleil	Sonne	sol	Sobaka // Солнце // солнце	太阳 // 太陽 // 日	sun	sun				sun
+452	SWALLOW	897		The reflex in the human body that makes something pass from the mouth to the pharynx and into the esophagus, with the shutting of the epiglottis.	tragar	Hirondelle // avaler	Schwalbe	tragar, engolir	Ласточка // глотать	吞 // 燕子						swallow
+453	SWEET	717		Having the taste characteristic of sugar or honey.	dulce	sucré, doux		doce	сладкий	甜			sweet		sweet	sweet
+454	SWELL	1573		To grow larger in volume.	hinchar					肿 // 腫 // 腫大 // 膨胀	to swell			to swell		swell
+455	SWIDDEN FIELD	429		a piece of land cleared for farming by burning away vegetation.						水稻					swidden	swidden
+456	SWIM	1439		To move through the water, without touching the bottom.	Nadar // nadar	nager	schwimmen	nadar	Zub // плавать // плыть // плыть, плавать	游 // 游水 // 游泳	to swim	swim		to swim		swim
+457	TAIL	1220		The appendage of an animal that is attached to its posterior and near the anus.	cola // cola, rabo // cola/rabo	queue	Schwanz	cauda, rabo	хвост	尾 // 尾巴	tail	tail	tail	tail	tail	tail
+458	TAKE	1749		To grasp with the hands.	tomar, coger	Prendre // prendre	Nehmen	tomar	Взять // брать	拿			to take			take
+459	TALL	711	LONG OR TALL (-1, Matisoff-1978-200)	Having a vertical extent greater than the average; Having the upper end, tip, top, head, etc. a long way up; Having a great vertical extent (often greater than the horizontal extent); High.	alto	Haut // grand	Hoch	alto	Высоко // высокий	高 // 髙						tall
+460	TELL	1711		To talk about a story giving its details; to give a detailed account of.	narrar, contar	raconter, narrer		contar, relatar	рассказывать историю	告诉						tell
+461	TEN	1515		The cardinal number occurring after nine and before eleven, represented in Roman numerals as X, in Arabic numerals as 10, and in the hexadecimal system (base 16) as A.	diez	Decem // dix	Zehn // zehn	dez	Десять // десять	十				Ten	ten	ten
+462	TERMITE	883		A soft-bodied insect of the order Isoptera; individuals feed on cellulose and live in colonies with a caste system comprising three types of functional individuals: sterile workers and soldiers, and the reproductives.	comején, hormiga blanca											termite
+463	THAT	78		Demonstrative pronoun (feminine, singular): the indicated thing is implied, since it is previously mentioned. Collocation: that of; to that of.	aquel	celui-là	das // jener		тот	那 // 那个 // 那個	that	that		that		that
+464	THATCH OR ROOF	2100	ROOF (1, Mann-2004-500)	The cover of a house or a hut.										thatch/roof		
+465	THERE	1937		In a not completely determined place which is not here.	allí	Là	Dort		Тамъ	那人 // 那儿 // 那兒 // 那里	there					there
+466	THEY	817		The third person plural of the personal pronoun that designates more than one person or animal, thing or idea which have already been mentioned previously.	ellos // ellos, ellas	Ils // Ils ßont // eux, elles	Sie // Sie ßind	eles, elas	Им // Они // Суть // они	他们 // 他們	they			they		they
+467	THICK	1244		Relatively large distance from one surface to the opposite in its smallest solid dimension.	grueso	épais		grosso	толстый	厚 // 粗	thick		thick	thick	thick	thick
+468	THIGH	800		The area between the pelvis and buttocks and the knee.	muslo	cuisse		coxa	бедро	大腿			thigh			thigh
+469	THIN	2308	THIN (SLIM) (1, Mann-2004-500), STDB (1, STDB-2016-250.tsv)	Being very narrow or carrying a very small amount of fat.	delgado				тонкий	瘦 // 薄	thin			thin	thin	thin
+470	THINK	2271	STDB (1, STDB-2016-250.tsv)	Use ones mental power to form ideas or having used ones mental power to form ideas of conviction or belief.	pensar				думать	想 // 想（思索）	to think			to think		think
+471	THIRSTY	847		Feeling the need to drink.						渴						thirsty
+472	THIS	1214		The indicated object, item, etc.	este	celui-ci	dies // dieser		этот	这 // 这个 // 這 // 這個	this	this	this	this		this // this
+473	THORN	124		A sharp and hard structure that grows on a plant.						刺					thorn (prick)	thorn
+474	THOU	1215		The person addressed.	tú // tú, usted // usted	Tu // tu // tu, vous	Du // du	tu, você	2-е лицо // Ты // ты // ты, вы	你 // 你、您	thou	thou	2sg pronoun	thou	thou	you (2s.)
+475	THOUSAND	1843		Ten times hundred.	mil	Mille // mille	Taußend	mil	Тысяча // тысяча	一千				One Thousand		thousand
+476	THREE	492		The third natural number (3).	tres	Trois // trois	Drey // drei	três	Три // три	三	three			Three	three	three
+477	THROW	1456		To cause (an object) to move rapidly through the air, with the force of the hand or arm.	botar, tirar // echar, tirar	Jetter // jeter	Werfen	atirar, arremessar, lançar	Бросать // бросать	扔 // 扔（投掷） // 抛	to throw			to throw		throw
+478	THUNDER	1150		Sound produced by fast air expansion induced by a lightning.	trueno	Tonnere // tonnerre	Donner	trovão	Громъ // гром	雷电				thunder		thunder
+479	TIGER	846		A large carnivorous animal (Panthera tigris) of the cat family indigenous to Asia.						老虎 // 虎						tiger
+480	TIRED	1757		In need of some rest or sleep, usually as a result of hard work or physical activity.	cansado	fatigué		cansado, estafado	усталый, утомленный	累						tired
+481	TODAY	1283		On the current day or date.	hoy	Aujourd'hui // aujourd'hui	Heute	hoje	Нынѣ // сегодня	今天						
+482	TOMORROW	1329		The day after the present day.	mañana	Demain // demain	Morgen	amanhã	Завтра // завтра	明天						tomorrow
+483	TONGUE	1205		The flexible muscular organ in the mouth that is used to move food around, for tasting and that is moved into various positions to modify the flow of air from the lungs in order to produce different sounds.	Lengua // lengua	Langue // langue	Zunge	língua	Diereva // Языкъ // язык // ѣзыкъ	舌 // 舌头 // 舌頭	tongue	tongue	tongue	tongue	tongue	tongue
+484	TOOTH	1380		A hard, calcareous structure present in the mouth of many vertebrate animals, generally used for eating.	Diente // diente	Dents // dent	Zaehne // Zahn	dente	Gora // Зубъ // Зубы // зуб	牙 // 牙齒 // 牙齿	tooth (front rather than molar)	tooth	tooth	tooth	tooth	tooth
+485	TREE	906	TREE OR WOOD (-1, Matisoff-1978-200)	Any large woody perennial plant with a distinct trunk giving rise to branches or leaves at some distance from the ground.	Arbol // Árbol // árbol	Arbre // arbre	Baum	árvore	Krasno // Древо // дерево	一棵樹 // 树 // 樹	tree	tree				tree
+486	TROUSERS	809		An item of clothing worn on the lower part of the body and covering both legs separately.	pantalones, calzones	pantalon	Hose	calças	штаны, брюки	裤						trousers
+487	TURN	1588	TURN AROUND (1, Swadesh-1952-200)	To change direction of movement.	volcar, dar(se) vuelta	retourner		virar	вращать, вертеть // переворачивать(ся)	轉 // 转				to turn		turn
+488	TURTLE	112		A reptile of the order Testudines (the crown group of the superorder Chelonia), characterised by a special bony or cartilaginous shell developed from their ribs that acts as a shield.	tortuga // tortuga, motelo	tortue		tartaruga	черепаха	乌龟						turtle
+489	TWENTY	1710		The cardinal number occurring after nineteen and before twenty-one, represented in Roman numerals as XX and in Arabic numerals as 20.	veinte	vingt		vinte	двадцать	二十				Twenty	twenty/score	twenty/score
+490	TWO	1498		The cardinal number occurring after one and before three, represented in Roman numerals as II and in Arabic numerals as 2.	dos	Deux // deux	Zwey // zwei	dois, duas	Два // два	二	two	two		Two	two	two
+491	URINE	1142		Liquid excrement consisting of water, salts and urea, which is made in the kidneys, stored in the bladder, then released through the urethra.		urine				尿						urine
+492	VAGINA	1836		The lower part of the female reproductive tract; a moist canal in female mammals extending from the labia minora to the uterus.						阴道 [B = 女生殖器]					vagina or breast/milk	
+493	VILLAGE	930		A group of houses and other buildings, such as a church, a school and some shops, which is smaller than a town, usually in the countryside.	caserío // pueblo	Village // village	Dorf	aldeia	Деревня // деревня	村子					village	village
+494	VOMIT	1278		To regurgitate the contents of the stomach.	vomitar	vomir		vomitar	страдать рвотой	呕吐 // 呕吐物 // 嘔吐	to vomit			to vomit	vomit	vomit
+495	WAIT (FOR)	1590		To refrain from acting or moving for some duration or until some event occurs.						等 // 等 [B = denghou]						wait
+496	WALL (OF HOUSE)	933		The outer structure which encloses a building.	pared, muro	mûr		parede	стена	墙 // 墙壁						wall of house
+497	WARM	1232	HOT OR WARM (-1, Swadesh-1955-100), WARM (OF WEATHER) (1, Swadesh-1952-200)	Having a temperature slightly higher than usual, still pleasant.	tibio, cálido	Chaud // tiède, chaud, assez chaud	Warm	quente, cálido	Тепло // теплый // тёплый	暖和 // 温暖				warm	warm	warm
+498	WASH	1453	LAUNDER (1, Mann-2004-500)	To remove dirt and grime from an object, using water (usually with soap).	lavar	laver		lavar	мыть	洗 // 洗(洗手)	to wash				wash	wash
+499	WATER	948		Common liquid (H₂O) which forms rain, rivers, the sea, etc., and which makes up a large part of the bodies of organisms.	agua	Eau // eau	Wasser // Waßßer	água	Вода // вода	一口水 // 水	water	water	water	water	water	water
+500	WE	1212	STDB (1, STDB-2016-250.tsv)	The speaker or writer and at least one other person.	nosotros // nosotros/nosotras	Nous // nous	Wir // wir	nós	Мы // мы	我们 // 我們	we	we		we		we
+501	WEAK	1601		Lacking in force or ability.	débil	Faible // faible	Schwach // schwach	débil, fraco	Слабъ // слабый, хилый							weak
+502	WEAVE	133		To make, as fabric, by enterlacing threads.	tejer	tisser		tecer	плести	织（布） // 编织 [B = zhi (bu)]					weave	weave (cloth)
+503	WEST	1817		One of the four principal compass points, specifically 270°, conventionally directed to the left on maps. The direction of the setting sun.	oeste, poniente	Occident // ouest, occident	Westen // Weßt, Niedergang	oeste	Западъ // запад							west
+504	WET	1726		Covered with or impregnated with liquid.	mojado	humide		molhado, úmido	мокрый	湿 // 濕	wet			wet		wet
+505	WHAT	1236		Which thing.	qué // qué? // ¿qué?	Avec quoi // Quoi // quoi?	Was // Womit // was // was?	que?	Чемъ // Что // что // что?	什么 // 什麼 // 什麽 // 设么	what?	what	what?	what?		what
+506	WHEAT	1077		Plant belonging to genus Triticum and to family Poaceae (also known as Gramineae).	trigo	Froment // blé	Waitzen	trigo	Пшеница // пшеница	麥子 // 麦子						
+507	WHEN	1238		at what time	cuando // ¿cuándo?	Quand // quand?	Wann // wann	quando?	Когда // когда // когда?	什么时候	when?			when?		when (future) // when (past)
+508	WHERE	1237		At what place?	donde // ¿dónde?	Où // oú?	Wo // wo	onde?	Гдѣ // где // где? откуда?	哪兒 // 哪裡 // 哪里	where?			where?		where
+509	WHISTLE	1025		To make a sound or a melody by forcing the breath out between closed lips.	silbar, chiflar	Sifler // siffler	Pfeiffen	assobiar	Свистать // свистеть							whistle
+510	WHITE	1335		Bright and colourless; reflecting equal quantities of all frequencies of visible light.	Blanco // blanco	Blanc // blanc	Weißs // weiss // weiß	branco	Sadit // Бѣло // белый	白	white	white		white	white	white
+511	WHO	1235		What person or people; which person or people.	quién // quién? // ¿quién?	Avec qui // Qui // qui?	Mit wem // Wer // wer // wer?	quem?	Кто // Кѣмъ // Кѣмъ, кто // кто // кто?	誰 // 谁	who?	who	who?	who?		who
+512	WIDE	1243		Having a long distance or area between two points, especially horizontally.	ancho // ancho, amplio	large		largo	широкий	宽 // 寬	wide		wide	wide		wide
+513	WIDOW	1756		A woman whose spouse has died.	viuda	Veuve // veuve	Wittwe	viúva	Вдова // вдова							widow
+514	WIFE	1199		The female partner in a marriage.	esposa	Femme // femme, épouse	Weib	esposa, mulher	Жена // жена	妻子	wife			wife		wife
+515	WIND	960		The motion of air relative to the earth's surface; usually means horizontal air motion, as distinguished from vertical motion.	viento	Vent // vent	Wind	vento	Вѣтрь // ветер // ветер	風 // 风	wind		wind	wind	wind	wind
+516	WINDOW	1375		An opening, usually covered by one or more panes of clear glass, to allow light from outside to enter a building or vehicle.	ventana	fenêtre		janela	окно	窗户						window
+517	WING	1257		The appendage of an animal's (bird, bat, insect) body that enables it to fly in the air.	ala	aile		asa	крыло	翅膀 // 翼	wing		wing	wing	wing	wing
+518	WINNOWING	2462		Wind winnowing is an agricultural method developed by ancient cultures for separating grain from chaff. 												winnow (rice)
+519	WIPE	1454		To move an object or utensil over a surface or other object while maintaining contact, in order that a substance be removed from its surface.					вытирать	擦	to wipe					wipe
+520	WITH	1340		In the company of	con						with (accompanying)					with
+521	WOLF	522		A large wild canid (Canidae), closely related to the dog.	lobo	Loup // loup	Wolf	lobo	Волкъ // волк	狼						
+522	WOOD	1803	TREE OR WOOD (-1, Matisoff-1978-200)	The substance making up the central part of the trunk and branches of a tree. Used as a material for construction, to manufacture various items, etc. or as fuel.	madera	bois		madeira	дерево (материал), древесина	木头 [B = 木材] // 木頭			wood			
+523	WORK (ACTIVITY)	1086		To do a specific task by employing physical or mental powers.										to work		work
+524	WORM	1219		A generally tubular invertebrate of the annelid phylum.	Gusano // gusano // lombriz, gusano	Ver // ver de terre	Wurm	verme, lombriga	Plavat // Червь // червь // червь // червяк, червь	虫 // 蚯蚓 // 蟲	worm			worm (earthworm)		worm
+525	WRONG	1390		Contradicting the facts.	incorrecto, falso	incorrect		errado	неправильный							wrong
+526	YAWN	1028		To open the mouth widely and take a long, deep breath because of tiredness or boredom.	bostezar	Bailler // bailler	Gaehnen	bocejar	Зѣвать // зевать	打哈欠				to yawn		yawn
+527	YEAR	1226		The time it takes the Earth to complete one revolution of the Sun (between 365.24 and 365.26 days depending on the point of reference).	año	Année // année	Jahr	ano	Годъ // Гоъ // год // год	年 // 年、岁	year			year	year	year
+528	YELLOW	1424		Having the colour of a yolk, a lemon or gold.	Amarillo // amarillo	Jaune // jaune	Gelb // gelb	amarelo	Lgat // Желто // желты // желтый // жёлтый	黃 // 黄	yellow	yellow		yellow		yellow
+529	YESTERDAY	1174		The day before today.	ayer	Hier // hier	Geßtern	ontem	Вчера // вчера	昨天			yesterday			yesterday
+530	YOU	1213		The group of persons addressed.	ustedes	Vous // vous	Ihr // ihr	vocês, vós	Вы // вы	你 // 你们 // 你們	ye			you		you (2pl.)
+531	YOUNG	1207		In the early part of growth or life.	tierno, joven	Jeune // jeune	Jung	jovem, novo	Молодъ // молодой	年輕 // 年轻						
+532	YOUNGER BROTHER (OF MAN)	2416		The younger brother of a man.												brother(yngr. of m.)
+533	YOUNGER BROTHER (OF WOMAN)	2417		The younger brother of a woman.												brother(yngr. of f.)
+534	YOUNGER SISTER (OF MAN)	2420		The younger sister of a man.												sister (yngr. of m.)
+535	YOUNGER SISTER (OF WOMAN)	2421		The younger sister of a woman.												sister (yngr. of f.)
